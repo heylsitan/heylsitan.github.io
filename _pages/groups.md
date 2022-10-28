@@ -1,6 +1,7 @@
 ---
-title: 课题组
-date: 2020-07-10 18:09:14
+title: "课题组"
+permalink: /groups/
+author_profile: true
 ---
 
 

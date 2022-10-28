@@ -1,6 +1,7 @@
 ---
-title: 新闻动态
-date: 2021-08-29 00:00:00
+title: "新闻动态"
+permalink: /news/
+author_profile: true
 ---
 - 2022.10：祝贺王国栋获得硕士研究生国家奖学金！
 
