@@ -85,11 +85,11 @@ author:
   bio              : "兰州大学大气科学学院副教授"
   location         : "兰州，中国"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "hhttps://scholar.google.com/citations?hl=en&user=qi9u5dwAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "heyongli@lzu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yongli-He"
   github           : "heylsitan"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0183-378X"
 
 
 
