@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "学术论文"
     url: /publications/
 
-  - title: "Recent News"
+  - title: "新闻动态"
     url: /news/
 
-  - title: "Groups"
+  - title: "课题组"
     url: /groups/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "国际会议报告"
+    url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
@@ -21,8 +21,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV&Contact"
-    url: /cv&Contact/
+  - title: "联系方式"
+    url: /Contact/
     
   #- title: "Guide"
   #  url: /markdown/
