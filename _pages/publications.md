@@ -41,7 +41,7 @@ author_profile: true
 
 [28] Liu, J., Guan, X.*, Gao, Z., Huang, X., Ma, J., **He, Y.**, & Xie, T. (2021). Inter-decadal variability of the heat source over the Tibetan Plateau. **Climate Dynamics**. https://doi.org/10.1007/s00382-021-05929-z [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Liu et al_2021_Inter-decadal variability of the heat source over the Tibetan Plateau.pdf)
 
-[27] Guan, X., Zhu, K., Huang, X., Zeng, X., & **He, Y.** (2021). Precipitation Changes in Semi-arid Regions in East Asia Under Global Warming. **Frontiers in Earth Science**, 9, 10. [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Guan et al_2021_Precipitation Changes in Semi-arid Regions in East Asia Under Global Warming.pdf)
+[27] Guan, X., Zhu, K., Huang, X., Zeng, X., & **He, Y.** (2021). Precipitation Changes in Semi-arid Regions in East Asia Under Global Warming. **Frontiers in Earth Science**, 9:762348. doi: 10.3389/feart.2021.762348 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Guan et al_2021_Precipitation Changes in Semi-arid Regions in East Asia Under Global Warming.pdf)
 
 [26] **He, Y.**, Tian, W., Huang, J.*, Wang, G., Ren, Y., Yan, H., et al. (2021). The Mechanism of Increasing Summer Water Vapor Over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 126(10). https://doi.org/10.1029/2020JD034166 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al_2021_The Mechanism of Increasing Summer Water Vapor Over the Tibetan Plateau.pdf)
 
