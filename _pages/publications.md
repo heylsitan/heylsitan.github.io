@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2022 （14）
 
+[44] Wang, G., **He, Y.***, Zhang, B., Wang, X., Cheng, S., Xie, Y., et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 106494. https://doi.org/10.1016/j.atmosres.2022.106494 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang 等 - 2022 - Historical evaluation and projection of precipitat.pdf)
+
 [43] Gao, Z., Guan, X.*, He, B., Zhao, L., Xie, Y., **He, Y.**, & Ji, F. (2023). Impacts of the Tibetan Plateau on aridity change over the Northern Hemisphere. **Atmospheric Research**, 281, 106470. https://doi.org/10.1016/j.atmosres.2022.106470 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Gao et al_2023_Impacts of the Tibetan Plateau on aridity change over the Northern Hemisphere.pdf)
 
 [42] Liu, Y., Huang, J.*, Wang, T., Li, J., Yan, H., & **He, Y.** (2022). Aerosol-cloud interactions over the Tibetan Plateau: An overview. **Earth-Science Reviews**, 234, 104216. https://doi.org/10.1016/j.earscirev.2022.104216 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Liu et al_2022_Aerosol-cloud interactions over the Tibetan Plateau.pdf)
