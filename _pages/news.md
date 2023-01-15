@@ -3,6 +3,10 @@ title: "新闻动态"
 permalink: /news/
 author_profile: true
 ---
+- 2023.01.14：GRL论文正式接收，恭喜玻源！
+
+- 2022.12.26：divergent response of extreme cold论文投稿至CD！
+
 - 2022.11.10：marine heatwave论文在GRL送审。
 
 - 2022.10.28：祝贺王国栋获得硕士研究生国家奖学金！
