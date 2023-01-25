@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2023
+
+[45]**He, Y.***, Zhang, B., Xia, Z., Wang, S., & Guan, X. (2023). Global Warming has Increased the Distance Traveled by Marine Heatwaves. **Geophysical Research Letters**, *50*(2). https://doi.org/10.1029/2022GL102032
+
 ### 2022 （15）
 
 [44] Wang, G., **He, Y.***, Zhang, B., Wang, X., Cheng, S., Xie, Y., et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 106494. https://doi.org/10.1016/j.atmosres.2022.106494 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang 等 - 2022 - Historical evaluation and projection of precipitat.pdf)
