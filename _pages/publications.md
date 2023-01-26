@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2023
 
-[45]**He, Y.***, Zhang, B., Xia, Z., Wang, S., & Guan, X. (2023). Global Warming has Increased the Distance Traveled by Marine Heatwaves. **Geophysical Research Letters**, 50(2). https://doi.org/10.1029/2022GL102032
+[45]**He, Y.***, Zhang, B., Xia, Z., Wang, S., & Guan, X. (2023). Global Warming has Increased the Distance Traveled by Marine Heatwaves. **Geophysical Research Letters**, 50(2). https://doi.org/10.1029/2022GL102032 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al-2023-Global Warming has Increased the Distance Traveled.pdf)
 
 ### 2022 （15）
 
