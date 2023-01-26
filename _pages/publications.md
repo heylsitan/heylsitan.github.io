@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2023
 
+[46] Zhang, B., **He, Y.***, Ren, Y., Huang, B., Peng, Y., Wang, S., & Guan, X. The inﬂuence of the precipitation recycling process on the shift to heavy precipitation over the Tibetan Plateau in the summer. *Frontiers in Earth Science*. [https://doi.org/10.3389/feart.2023.1078501](https://doi.org/10.3389/feart.2023.1078501)
+
 [45]**He, Y.***, Zhang, B., Xia, Z., Wang, S., & Guan, X. (2023). Global Warming has Increased the Distance Traveled by Marine Heatwaves. **Geophysical Research Letters**, 50(2). https://doi.org/10.1029/2022GL102032 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al-2023-Global Warming has Increased the Distance Traveled.pdf)
 
 ### 2022 （15）
