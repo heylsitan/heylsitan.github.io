@@ -3,6 +3,8 @@ title: "新闻动态"
 permalink: /news/
 author_profile: true
 ---
+- 2023.02.21：祝贺贾晶晶同学考研上岸，加入课题组！
+
 - 2023.01.17：frontier in earth science论文接收，这是玻源的第二篇论文，恭喜玻源！
 
 - 2023.01.14：GRL论文正式接收，恭喜玻源！
