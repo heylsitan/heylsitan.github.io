@@ -7,6 +7,10 @@ author_profile: true
 
 ### 2023
 
+[49] **He, Y.***, Wang, X., Zhang, B., Wang, Z., & Wang, S. (2023). Contrast responses of strong and weak winter extreme cold events in the Northern Hemisphere to global warming. **Climate Dynamics**. https://doi.org/10.1007/s00382-023-06822-7
+
+[48] Zhang, G., **He, Y.**, Huang, J.*, Fu, L., Han, D., Guan, X., & Zhang, B. (2023). Divergent sensitivity of vegetation to aridity between drylands and humid regions. **Science of The Total Environment**, *884*, 163910. https://doi.org/10.1016/j.scitotenv.2023.163910
+
 [47] Wu, W., Ji, F., Hu, S., & **He, Y.** (2023). Asymmetric drying and wetting trends in Eastern and Western China. **Advances in Atmospheric Sciences**. https://doi.org/10.1007/s00376-022-2216-x
 
 [46] Zhang, B., **He, Y.***, Ren, Y., Huang, B., Peng, Y., Wang, S., & Guan, X. The inﬂuence of the precipitation recycling process on the shift to heavy precipitation over the Tibetan Plateau in the summer. **Frontiers in Earth Science**. 11:1078501 [https://doi.org/10.3389/feart.2023.1078501](https://doi.org/10.3389/feart.2023.1078501)  [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang 等 - The inﬂuence of the precipitation recycling proces.pdf)
