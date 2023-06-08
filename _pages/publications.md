@@ -7,6 +7,10 @@ author_profile: true
 
 ### 2023
 
+[51] Guan, X., Sun, W., Kong, X., Zhang, F.*, Huang, J., & **He, Y.** 2023. Response of fatal landslides to precipitation over the Chinese Loess Plateau under global warming. *Frontiers in Earth Science*. DOI: [10.3389/feart.2023.1146724.](javascript:void(0))
+
+[50] Lian, X., Huang, J.*, Li, H., **He, Y.**, Ouyang, Z., Fu, S., et al. (2023). Heat waves accelerate the spread of infectious diseases. **Environmental Research**, *231*, 116090. https://doi.org/10.1016/j.envres.2023.116090
+
 [49] **He, Y.***, Wang, X., Zhang, B., Wang, Z., & Wang, S. (2023). Contrast responses of strong and weak winter extreme cold events in the Northern Hemisphere to global warming. **Climate Dynamics**. https://doi.org/10.1007/s00382-023-06822-7
 
 [48] Zhang, G., **He, Y.**, Huang, J.*, Fu, L., Han, D., Guan, X., & Zhang, B. (2023). Divergent sensitivity of vegetation to aridity between drylands and humid regions. **Science of The Total Environment**, *884*, 163910. https://doi.org/10.1016/j.scitotenv.2023.163910
