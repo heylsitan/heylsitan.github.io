@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2023
 
-[51] Guan, X., Sun, W., Kong, X., Zhang, F.*, Huang, J., & **He, Y.** 2023. Response of fatal landslides to precipitation over the Chinese Loess Plateau under global warming. *Frontiers in Earth Science*. DOI: [10.3389/feart.2023.1146724.](javascript:void(0))
+[51] Guan, X., Sun, W., Kong, X., Zhang, F.*, Huang, J., & **He, Y.** 2023. Response of fatal landslides to precipitation over the Chinese Loess Plateau under global warming. **Frontiers in Earth Science**. DOI: [10.3389/feart.2023.1146724.](javascript:void(0))
 
 [50] Lian, X., Huang, J.*, Li, H., **He, Y.**, Ouyang, Z., Fu, S., et al. (2023). Heat waves accelerate the spread of infectious diseases. **Environmental Research**, *231*, 116090. https://doi.org/10.1016/j.envres.2023.116090
 
