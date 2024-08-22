@@ -3,6 +3,8 @@ title: "新闻动态"
 permalink: /news/
 author_profile: true
 ---
+- 2024.07.40：祝贺王小霞获得2024届校级优秀硕士论文！
+
 - 2023.05.18:  祝贺张玻源申请硕博连读成功！
 
 - 2023.05.08：contrast response of extreme cold论文被CD接收，祝贺小霞！  

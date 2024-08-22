@@ -5,6 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2024
+
+[57] **He Y\***, Peng Y, Wang Z, Wang S, Guan X. 2024 The transition to humid extreme cold events in winter during the past six decades over China. **Environmental Research Letter** https://doi.org/10.1088/1748-9326/ad6cea
+
+[56] Li C, Huang J, Liu X, Ding L, **He Y**, Xie Y (2024) The ocean losing its breath under the heatwaves. **Nature Communication** 15:6840. https://doi.org/10.1038/s41467-024-51323-8
+
+[55] Peng Y, **He Y\***, Wang X, Jia J, Huang B, Li D, Ji F, Wang S and Guan X. 2024 The influence of water vapour on winter humidity‐related extreme cold events in China. **International  Journal of Climatology**, 44:3464–3482. https://doi.org/10.1002/joc.8533
+
+[54] Wu Y, Ji F, Wang S, **He Y**, Hu S. 2024. Increased Warming Efficiencies of Lake Heatwaves Enhance Dryland Lake Warming over China. **Remote Sensing**, 16(3): 588. https://doi.org/10.3390/rs16030588.
+
+[53] Wang H, Wang S, Shu X, **He Y**, Huang J. 2024. Increasing Occurrence of Sudden Turns From Drought to Flood Over China. **Journal of Geophysical Research: Atmospheres**, 129(3): e2023JD039974. https://doi.org/10.1029/2023JD039974.
+
+ [52] Cheng S, Wang S, Li M, **He Y.** 2024. Summer heatwaves in China during 1961–2021: The impact of humidity. **Atmospheric Research**, 304: 107366. https://doi.org/10.1016/j.atmosres.2024.107366.
+
 ### 2023
 
 [51] Guan, X., Sun, W., Kong, X., Zhang, F.*, Huang, J., & **He, Y.** 2023. Response of fatal landslides to precipitation over the Chinese Loess Plateau under global warming. **Frontiers in Earth Science**. DOI: [10.3389/feart.2023.1146724.](javascript:void(0))
