@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2024
 
-[57] **He Y\***, Peng Y, Wang Z, Wang S, Guan X. 2024 The transition to humid extreme cold events in winter during the past six decades over China. **Environmental Research Letter** https://doi.org/10.1088/1748-9326/ad6cea
+[57] **He Y\***, Peng Y, Wang Z, Wang S, Guan X. (2024). "The transition to humid extreme cold events in winter during the past six decades over China." *Environmental Research Letter*. https://doi.org/10.1088/1748-9326/ad6cea
 
 [56] Li C, Huang J, Liu X, Ding L, **He Y**, Xie Y (2024) The ocean losing its breath under the heatwaves. **Nature Communication** 15:6840. https://doi.org/10.1038/s41467-024-51323-8
 
