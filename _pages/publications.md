@@ -31,19 +31,17 @@ author_profile: true
 
 [11] **He Y\***, Huang J, Ji F. (2021). Simulation of the East Asian Summer Monsoon during the Last Millennium with the MPI Earth System Model. **Climate Dynamics**, 56(5–6), 1503–1517. https://doi.org/10.1007/s00382-020-05542-6
 
-[12] Li D, **He Y**, Huang J\*. (2020). Duplex equilibria of Ural circulation anomalies. **Climate Dynamics**, 54(3–4), 1425–1452. https://doi.org/10.1007/s00382-019-05064-w
+[12] Bi L, **He Y\***, Huang J, Li Y, Guan X, Liu X. (2020). The global response of temperature to high-latitude vegetation greening in a two-dimensional energy balance model. **Atmospheric and Oceanic Science Letters**, 13(1), 80–87. https://doi.org/10.1080/16742834.2020.1696650
 
-[13] Bi L, **He Y\***, Huang J, Li Y, Guan X, Liu X. (2020). The global response of temperature to high-latitude vegetation greening in a two-dimensional energy balance model. **Atmospheric and Oceanic Science Letters**, 13(1), 80–87. https://doi.org/10.1080/16742834.2020.1696650
+[13] **He Y**, Huang J\*, Shugart HH, Guan X, Wang B, Yu K. (2017). Unexpected Evergreen Expansion in the Siberian Forest under Warming Hiatus. **Journal of Climate**, 30(13), 5021–5039. https://doi.org/10.1175/JCLI-D-16-0196.1
 
-[14] **He Y**, Huang J\*, Shugart HH, Guan X, Wang B, Yu K. (2017). Unexpected Evergreen Expansion in the Siberian Forest under Warming Hiatus. **Journal of Climate**, 30(13), 5021–5039. https://doi.org/10.1175/JCLI-D-16-0196.1
-
-[15] **He Y**, Huang J\*, Ji M. (2015). Impact of land–sea thermal contrast on interdecadal variation in circulation and blocking. **Climate Dynamics**, 46(9–10), 2413–2426. https://doi.org/10.1007/s00382-015-2708-9
+[14] **He Y**, Huang J\*, Ji M. (2015). Impact of land–sea thermal contrast on interdecadal variation in circulation and blocking. **Climate Dynamics**, 46(9–10), 2413–2426. https://doi.org/10.1007/s00382-015-2708-9
 
 ### 中文论文
 
-[16] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712.
+[15] 夏子涵, **何永利\***, 季飞, 王小霞. (2022). 全球变暖背景下海洋热浪事件的变化特征分析. **兰州大学学报(自然科学版)**, 58(4), 560–568. https://doi.org/10.13885/j.issn.0455-2059.2022.04.017
 
-[17] **何永利**, 黄建平\*, 纪明, 管晓丹. (2015). 海陆热力差异对大气环流年代际变化的影响. **大气科学**, 39(05), 1004–1016.
+[16] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712.
 
 ## 全部论文列表
 
@@ -127,60 +125,62 @@ author_profile: true
 
 [24] Zhang X, Chen S\*, Kang L, Yuan T, Luo Y, Alam K, et al. (2020). Direct Radiative Forcing Induced by Light‐Absorbing Aerosols in Different Climate Regions Over East Asia. **Journal of Geophysical Research: Atmospheres**, 125(14). https://doi.org/10.1029/2019JD032228[[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang et al_2020_Direct Radiative Forcing Induced by Light‐Absorbing Aerosols in Different.pdf)
 
-[23] Li D, **He Y**, Huang J\*. (2020). Duplex equilibria of Ural circulation anomalies. **Climate Dynamics**, 54(3–4), 1425–1452. https://doi.org/10.1007/s00382-019-05064-w [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Li et al_2020_Duplex equilibria of Ural circulation anomalies.pdf)
+[23] Bi L, **He Y\***, Huang J, Li Y, Guan X, Liu X. (2020). The global response of temperature to high-latitude vegetation greening in a two-dimensional energy balance model. **Atmospheric and Oceanic Science Letters**, 13(1), 80–87. https://doi.org/10.1080/16742834.2020.1696650  [pdf](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Bi et al_2020_The global response of temperature to high-latitude vegetation greening in a.pdf)
 
 [22] Jian B, Li J\*, Zhao Y, **He Y**, Wang J, Huang J. (2020). Evaluation of the CMIP6 planetary albedo climatology using satellite observations. **Climate Dynamics**, 54(11–12), 5145–5161. https://doi.org/10.1007/s00382-020-05277-4 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Jian et al_2020_Evaluation of the CMIP6 planetary albedo climatology using satellite.pdf)
 
-[21] Bi L, **He Y.\***, Huang J, Li Y, Guan X, Liu X. (2020). The global response of temperature to high-latitude vegetation greening in a two-dimensional energy balance model. **Atmospheric and Oceanic Science Letters**, 13(1), 80–87. https://doi.org/10.1080/16742834.2020.1696650  [pdf](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Bi et al_2020_The global response of temperature to high-latitude vegetation greening in a.pdf)
+[21] Yan H, Huang J\*, **He Y**, Liu Y, Wang T, Li J. (2020). Atmospheric Water Vapor Budget and Its Long‐Term Trend Over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 125(23). https://doi.org/10.1029/2020JD033297 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Yan et al_2020_Atmospheric Water Vapor Budget and Its Long‐Term Trend Over the Tibetan Plateau.pdf)
 
-[20] Yan H, Huang J\*, **He Y**, Liu Y, Wang T, Li J. (2020). Atmospheric Water Vapor Budget and Its Long‐Term Trend Over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 125(23). https://doi.org/10.1029/2020JD033297 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Yan et al_2020_Atmospheric Water Vapor Budget and Its Long‐Term Trend Over the Tibetan Plateau.pdf)
-
-[19] 罗雯, 管晓丹, **何永利**, 郭瑞霞, 李兆麟, 曹陈宇. (2020). 全球增温减缓期间北半球暖季气温的变化特征. **高原气象**, 39(04), 673–682. [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/罗 et al_2020_全球增温减缓期间北半球暖季气温的变化特征.pdf)
+[20] 罗雯, 管晓丹, **何永利**, 郭瑞霞, 李兆麟, 曹陈宇. (2020). 全球增温减缓期间北半球暖季气温的变化特征. **高原气象**, 39(04), 673–682. [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/罗 et al_2020_全球增温减缓期间北半球暖季气温的变化特征.pdf)
 
 ### 2019 （4）
 
-[18] Yu K, D’Odorico P, Collins SL, Carr D, Porporato A, Anderegg WRL, et al. (2019). The competitive advantage of a constitutive CAM species over a C4 grass species under drought and CO2 enrichment. **Ecosphere**, 10(5). https://doi.org/10.1002/ecs2.2721 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Yu 等。 - 2019 - The competitive advantage of a constitutive CAM sp.pdf)
+[19] Yu K, D’Odorico P, Collins SL, Carr D, Porporato A, Anderegg WRL, et al. (2019). The competitive advantage of a constitutive CAM species over a C4 grass species under drought and CO2 enrichment. **Ecosphere**, 10(5). https://doi.org/10.1002/ecs2.2721 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Yu 等。 - 2019 - The competitive advantage of a constitutive CAM sp.pdf)
 
-[17] Li C, Huang J\*, **He Y**, Li D, Ding L. (2019). Atmospheric Warming Slowdown during 1998–2013 Associated with Increasing Ocean Heat Content. **Advances in Atmospheric Sciences**, 36(11), 1188–1202. https://doi.org/10.1007/s00376-019-8281-0 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Li et al_2019_Atmospheric Warming Slowdown during 1998–2013 Associated with Increasing Ocean.pdf)
+[18] Li C, Huang J\*, **He Y**, Li D, Ding L. (2019). Atmospheric Warming Slowdown during 1998–2013 Associated with Increasing Ocean Heat Content. **Advances in Atmospheric Sciences**, 36(11), 1188–1202. https://doi.org/10.1007/s00376-019-8281-0 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Li et al_2019_Atmospheric Warming Slowdown during 1998–2013 Associated with Increasing Ocean.pdf)
 
-[16] Huang J\*, Ma J, Guan X, Li Y, **He Y**. (2019). Progress in Semi-arid Climate Change Studies in China. **Advances in Atmospheric Sciences**, 36(9), 922–937. https://doi.org/10.1007/s00376-018-8200-9 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Huang 等。 - 2019 - Progress in Semi-arid Climate Change Studies in Ch.pdf)
+[17] Huang J\*, Ma J, Guan X, Li Y, **He Y**. (2019). Progress in Semi-arid Climate Change Studies in China. **Advances in Atmospheric Sciences**, 36(9), 922–937. https://doi.org/10.1007/s00376-018-8200-9 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Huang 等。 - 2019 - Progress in Semi-arid Climate Change Studies in Ch.pdf)
 
-[15] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712. [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/何 et al_2019_全球变暖过程中海陆增温差异特征研究进展.pdf)
+[16] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712. [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/何 et al_2019_全球变暖过程中海陆增温差异特征研究进展.pdf)
 
 ### 2018 （5）
 
-[14] Wei Y, Yu H, Huang J, **He Y**, Yang B, Guan X, Liu X. (2018). Comparison of the Pacific Decadal Oscillation in climate model simulations and observations. **International Journal of Climatology**, 38, e99–e118. https://doi.org/10.1002/joc.5355 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wei et al_2018_Comparison of the Pacific Decadal Oscillation in climate model simulations and.pdf)
+[15] Wei Y, Yu H, Huang J, **He Y**, Yang B, Guan X, Liu X. (2018). Comparison of the Pacific Decadal Oscillation in climate model simulations and observations. **International Journal of Climatology**, 38, e99–e118. https://doi.org/10.1002/joc.5355 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wei et al_2018_Comparison of the Pacific Decadal Oscillation in climate model simulations and.pdf)
 
-[13] Jian B, Li J\*, Wang G, **He Y**, Han Y, Zhang M, Huang J. (2018). The Impacts of Atmospheric and Surface Parameters on Long-Term Variations in the Planetary Albedo. **Journal of Climate**, 31(21), 8705–8718. https://doi.org/10.1175/JCLI-D-17-0848.1 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Jian et al_2018_The Impacts of Atmospheric and Surface Parameters on Long-Term Variations in.pdf)
+[14] Jian B, Li J\*, Wang G, **He Y**, Han Y, Zhang M, Huang J. (2018). The Impacts of Atmospheric and Surface Parameters on Long-Term Variations in the Planetary Albedo. **Journal of Climate**, 31(21), 8705–8718. https://doi.org/10.1175/JCLI-D-17-0848.1 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Jian et al_2018_The Impacts of Atmospheric and Surface Parameters on Long-Term Variations in.pdf)
 
-[12] Li D, **He Y**, Huang J, Bi L, Ding L. (2018). Multiple Equilibria in a Land–Atmosphere Coupled System. **Journal of Meteorological Research**, 32(6), 950–973. https://doi.org/10.1007/s13351-018-8012-y [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Li et al_2018_Multiple Equilibria in a Land–Atmosphere Coupled System.pdf)
+[13] Li D, **He Y**, Huang J, Bi L, Ding L. (2018). Multiple Equilibria in a Land–Atmosphere Coupled System. **Journal of Meteorological Research**, 32(6), 950–973. https://doi.org/10.1007/s13351-018-8012-y [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Li et al_2018_Multiple Equilibria in a Land–Atmosphere Coupled System.pdf)
 
-[11] Guo R, Guan X\*, **He Y**, Gan Z, Jin H. (2018). Different roles of dynamic and thermodynamic effects in enhanced semi-arid warming. **International Journal of Climatology**, 38(1), 13–22. https://doi.org/10.1002/joc.5155 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Guo et al_2018_Different roles of dynamic and thermodynamic effects in enhanced semi-arid.pdf)
+[12] Guo R, Guan X\*, **He Y**, Gan Z, Jin H. (2018). Different roles of dynamic and thermodynamic effects in enhanced semi-arid warming. **International Journal of Climatology**, 38(1), 13–22. https://doi.org/10.1002/joc.5155 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Guo et al_2018_Different roles of dynamic and thermodynamic effects in enhanced semi-arid.pdf)
 
-[10] **He Y**, Huang J\*, Li D, Xie Y, Zhang G, Qi Y, et al. (2018). Comparison of the effect of land-sea thermal contrast on interdecadal variations in winter and summer blockings. **Climate Dynamics**, 51(4), 1275–1294. https://doi.org/10.1007/s00382-017-3954-9 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al_2018_Comparison of the effect of land-sea thermal contrast on interdecadal.pdf)
+[11] **He Y**, Huang J\*, Li D, Xie Y, Zhang G, Qi Y, et al. (2018). Comparison of the effect of land-sea thermal contrast on interdecadal variations in winter and summer blockings. **Climate Dynamics**, 51(4), 1275–1294. https://doi.org/10.1007/s00382-017-3954-9 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al_2018_Comparison of the effect of land-sea thermal contrast on interdecadal.pdf)
 
 ### 2017 （5）
 
-[9] Yu K, D’Odorico P, Li W, **He Y**. (2017). Effects of competition on induction of crassulacean acid metabolism in a facultative CAM plant. **Oecologia**, 184(2), 351–361. https://doi.org/10.1007/s00442-017-3868-6 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Yu et al_2017_Effects of competition on induction of crassulacean acid metabolism in a.pdf)
+[10] Yu K, D’Odorico P, Li W, **He Y**. (2017). Effects of competition on induction of crassulacean acid metabolism in a facultative CAM plant. **Oecologia**, 184(2), 351–361. https://doi.org/10.1007/s00442-017-3868-6 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Yu et al_2017_Effects of competition on induction of crassulacean acid metabolism in a.pdf)
 
-[8] Wang B\*, Lerdau M, **He Y**. (2017). Widespread production of nonmicrobial greenhouse gases in soils. **Global Change Biology**, 23(11), 4472–4482. https://doi.org/10.1111/gcb.13753 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang et al_2017_Widespread production of nonmicrobial greenhouse gases in soils.pdf)
+[9] Wang B\*, Lerdau M, **He Y**. (2017). Widespread production of nonmicrobial greenhouse gases in soils. **Global Change Biology**, 23(11), 4472–4482. https://doi.org/10.1111/gcb.13753 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang et al_2017_Widespread production of nonmicrobial greenhouse gases in soils.pdf)
 
-[7] Huang J, Li Y, Fu C, Chen F, Fu Q, Dai A, et al. (2017). Dryland climate change: Recent progress and challenges: Dryland Climate Change. **Reviews of Geophysics**, 55(3), 719–778. https://doi.org/10.1002/2016RG000550 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Huang et al_2017_Dryland climate change.pdf)
+[8] Huang J, Li Y, Fu C, Chen F, Fu Q, Dai A, et al. (2017). Dryland climate change: Recent progress and challenges: Dryland Climate Change. **Reviews of Geophysics**, 55(3), 719–778. https://doi.org/10.1002/2016RG000550 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Huang et al_2017_Dryland climate change.pdf)
 
-[6] Chen S, Huang J\*, Kang L, Wang H, Ma X, **He Y**, et al. (2017). Emission, transport, and radiative effects of mineral dust from the Taklimakan and Gobi deserts: comparison of measurements and model results. **Atmospheric Chemistry and Physics**, 17(3), 2401–2421. https://doi.org/10.5194/acp-17-2401-2017      [pdf](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Chen et al_2017_Emission%2C transport%2C and radiative effects of mineral dust from the Taklimakan.pdf)
+[7] Chen S, Huang J\*, Kang L, Wang H, Ma X, **He Y**, et al. (2017). Emission, transport, and radiative effects of mineral dust from the Taklimakan and Gobi deserts: comparison of measurements and model results. **Atmospheric Chemistry and Physics**, 17(3), 2401–2421. https://doi.org/10.5194/acp-17-2401-2017      [pdf](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Chen et al_2017_Emission%2C transport%2C and radiative effects of mineral dust from the Taklimakan.pdf)
 
-[5] **He Y**, Huang J\*, Shugart HH, Guan X, Wang B, Yu K. (2017). Unexpected Evergreen Expansion in the Siberian Forest under Warming Hiatus. **Journal of Climate**, 30(13), 5021–5039. https://doi.org/10.1175/JCLI-D-16-0196.1 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al_2017_Unexpected Evergreen Expansion in the Siberian Forest under Warming Hiatus.pdf)
+[6] **He Y**, Huang J\*, Shugart HH, Guan X, Wang B, Yu K. (2017). Unexpected Evergreen Expansion in the Siberian Forest under Warming Hiatus. **Journal of Climate**, 30(13), 5021–5039. https://doi.org/10.1175/JCLI-D-16-0196.1 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al_2017_Unexpected Evergreen Expansion in the Siberian Forest under Warming Hiatus.pdf)
 
 ### 2016 （1）
 
-[4] Huang J, Ji M, Xie Y, Wang S, **He Y**, Ran J. (2016). Global semi-arid climate change over last 60 years. **Climate Dynamics**, 46(3–4), 1131–1150. https://doi.org/10.1007/s00382-015-2636-8 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Huang et al_2016_Global semi-arid climate change over last 60 years.pdf)
+[5] Huang J, Ji M, Xie Y, Wang S, **He Y**, Ran J. (2016). Global semi-arid climate change over last 60 years. **Climate Dynamics**, 46(3–4), 1131–1150. https://doi.org/10.1007/s00382-015-2636-8 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Huang et al_2016_Global semi-arid climate change over last 60 years.pdf)
 
 ### 2015 （1）
 
-[3] Wang S, Huang J\*, **He Y**, Guan Y. (2015). Combined effects of the Pacific Decadal Oscillation and El Niño-Southern Oscillation on Global Land Dry–Wet Changes. **Scientific Reports**, 4(1), 6651. https://doi.org/10.1038/srep06651 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang et al_2015_Combined effects of the Pacific Decadal Oscillation and El Niño-Southern.pdf)
+[4] Wang S, Huang J\*, **He Y**, Guan Y. (2015). Combined effects of the Pacific Decadal Oscillation and El Niño-Southern Oscillation on Global Land Dry–Wet Changes. **Scientific Reports**, 4(1), 6651. https://doi.org/10.1038/srep06651 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang et al_2015_Combined effects of the Pacific Decadal Oscillation and El Niño-Southern.pdf)
 
 ### 2014 （2）
 
-[2] **He Y**, Huang J\*, Ji M. (2014). Impact of land–sea thermal contrast on interdecadal variation in circulation and blocking. **Climate Dynamics**, 43(12), 3267–3279. https://doi.org/10.1007/s00382-014-2103-y  [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al_2014_Impact of land–sea thermal contrast on interdecadal variation in circulation.pdf)
+[3] **He Y**, Huang J\*, Ji M. (2014). Impact of land–sea thermal contrast on interdecadal variation in circulation and blocking. **Climate Dynamics**, 43(12), 3267–3279. https://doi.org/10.1007/s00382-014-2103-y  [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He et al_2014_Impact of land–sea thermal contrast on interdecadal variation in circulation.pdf)
 
-[1] 冉津江, 季明霞, 黄建平, 管晓丹, 齐玉磊, **何永利**. (2014). 中国干旱半干旱地区的冷季快速增温. **高原气象**, 33(04), 947–956. [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/冉 et al_2014_中国干旱半干旱地区的冷季快速增温.pdf)
+[2] 冉津江, 季明霞, 黄建平, 管晓丹, 齐玉磊, **何永利**. (2014). 中国干旱半干旱地区的冷季快速增温. **高原气象**, 33(04), 947–956. [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/冉 et al_2014_中国干旱半干旱地区的冷季快速增温.pdf)
+
+### 2013 （1）
+
+[1] **何永利**, 黄建平\*, 纪明, 管晓丹. (2013). 海陆热力差异对大气环流年代际变化的影响. **大气科学**, 37(05), 1004–1016. [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/何 et al_2013_海陆热力差异对大气环流年代际变化的影响.pdf)
