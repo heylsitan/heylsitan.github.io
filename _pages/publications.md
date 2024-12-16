@@ -21,11 +21,11 @@ author_profile: true
 
 [6] **He Y\***, Zhang B, Xia Z, Wang S, Guan X. (2023). Global warming has increased the distance traveled by marine heatwaves. **Geophysical Research Letters**, 50(2). https://doi.org/10.1029/2022GL102032
 
-[7] Wang G, **He Y\***, Zhang B, Wang X, Cheng S, Xie Y, et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 106494. https://doi.org/10.1016/j.atmosres.2022.106494
+[7] Wang G, **He Y\***, Zhang B, Wang X, Cheng S, Xie Y, et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 106494. https://doi.org/10.1016/j.atmosres.2022.106494 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang 等 - 2022 - Historical evaluation and projection of precipitat.pdf)
 
 [8] Wang G, **He Y\***, Huang J, Guan X, Wang X, Hu H, et al. (2022). The influence of precipitation phase changes on the recharge process of terrestrial water storage in the cold season over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 127(4). https://doi.org/10.1029/2021JD035824
 
-[9] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing of Environment**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
+[9] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
 
 [10] **He Y\***, Huang J, Wang B, Ji F, Hu S, Wang S. (2021). Evaluation of Ocean-Atmosphere Coupling in CMIP6 Models. **Journal of Climate**, 34(11), 4591–4606. https://doi.org/10.1175/JCLI-D-20-0722.1
 
@@ -39,7 +39,7 @@ author_profile: true
 
 ### 中文论文
 
-[15] 夏子涵, **何永利\***, 季飞, 王小霞. (2022). 全球变暖背景下海洋热浪事件的变化特征分析. **兰州大学学报(自然科学版)**, 58(4), 560–568. https://doi.org/10.13885/j.issn.0455-2059.2022.04.017
+[15] 夏子涵, **何永利\***, 季飞, 王小霞. (2022). 全球变暖背景下海洋热浪事件的变化特征分析. **兰州大学学报(自然科学版)**, 58(4), 560–568. https://doi.org/10.13885/j.issn.0455-2059.2022.04.017 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/夏 et al_2022_全球变暖背景下海洋热浪事件的变化特征分析.pdf)
 
 [16] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712.
 
@@ -97,7 +97,7 @@ author_profile: true
 
 [36] Wang S, Huang J\*, Huang G, Luo F, Ren Y, **He Y**. (2022). Enhanced impacts of indian ocean sea surface temperature on the dry/wet variations over Northwest China. **Journal of Geophysical Research: Atmospheres**, 127(11). https://doi.org/10.1029/2022JD036533
 
-[35] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing of Environment**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
+[35] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
 
 [34] Wu W, Ji F\*, Hu S, **He Y**, Wei Y, Xu Z, Yu H. (2022). Future evolution of global land surface air temperature trend based on CMIP6 models. **International Journal of Climatology**, joc.7668. https://doi.org/10.1002/joc.7668 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wu et al_2022_Future evolution of global land surface air temperature trend based on span.pdf)
 
