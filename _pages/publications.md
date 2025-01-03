@@ -21,7 +21,7 @@ author_profile: true
 
 [6] **He Y\***, Zhang B, Xia Z, Wang S, Guan X. (2023). Global warming has increased the distance traveled by marine heatwaves. **Geophysical Research Letters**, 50(2). https://doi.org/10.1029/2022GL102032
 
-[7] Wang G, **He Y\***, Zhang B, Wang X, Cheng S, Xie Y, et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 106494. https://doi.org/10.1016/j.atmosres.2022.106494 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang 等 - 2022 - Historical evaluation and projection of precipitat.pdf)
+[7] Wang G, **He Y**, Zhang B, Wang X, Cheng S, Xie Y, et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 106494. https://doi.org/10.1016/j.atmosres.2022.106494 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang 等 - 2022 - Historical evaluation and projection of precipitat.pdf)
 
 [8] Wang G, **He Y\***, Huang J, Guan X, Wang X, Hu H, et al. (2022). The influence of precipitation phase changes on the recharge process of terrestrial water storage in the cold season over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 127(4). https://doi.org/10.1029/2021JD035824
 
@@ -42,6 +42,60 @@ author_profile: true
 [15] 夏子涵, **何永利\***, 季飞, 王小霞. (2022). 全球变暖背景下海洋热浪事件的变化特征分析. **兰州大学学报(自然科学版)**, 58(4), 560–568. https://doi.org/10.13885/j.issn.0455-2059.2022.04.017 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/夏 et al_2022_全球变暖背景下海洋热浪事件的变化特征分析.pdf)
 
 [16] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712.
+
+## 第二作者及其他作者论文
+
+[56] Li C, Huang J\*, Liu X, Ding L, **He Y**, Xie Y. (2024). The ocean losing its breath under the heatwaves. **Nature Communication**, 15:6840. https://doi.org/10.1038/s41467-024-51323-8
+
+[55] Wu Y, Ji F\*, Wang S, **He Y**, Hu S. (2024). Increased Warming Efficiencies of Lake Heatwaves Enhance Dryland Lake Warming over China. **Remote Sensing**, 16(3):588. https://doi.org/10.3390/rs16030588
+
+[54] Wang H, Wang S\*, Shu X, **He Y**, Huang J. (2024). Increasing Occurrence of Sudden Turns From Drought to Flood Over China. **Journal of Geophysical Research: Atmospheres**, 129(3):e2023JD039974. https://doi.org/10.1029/2023JD039974
+
+[53] Cheng S, Wang S\*, Li M, **He Y**. (2024). Summer heatwaves in China during 1961–2021: The impact of humidity. **Atmospheric Research**, 304:107366. https://doi.org/10.1016/j.atmosres.2024.107366
+
+[52] Guan X\*, Sun W, Kong X, Zhang F\*, Huang J, **He Y**. (2023). Response of fatal landslides to precipitation over the Chinese Loess Plateau under global warming. **Frontiers in Earth Science**. https://doi.org/10.3389/feart.2023.1146724
+
+[51] Lian X, Huang J\*, Li H, **He Y**, Ouyang Z, Fu S, et al. (2023). Heat waves accelerate the spread of infectious diseases. **Environmental Research**, 231:116090. https://doi.org/10.1016/j.envres.2023.116090
+
+[50] **He Y\***, Wang X, Zhang B, Wang Z, Wang S. (2023). Contrast responses of strong and weak winter extreme cold events in the Northern Hemisphere to global warming. **Climate Dynamics**. https://doi.org/10.1007/s00382-023-06822-7
+
+[49] Zhang G, **He Y**, Huang J\*, Fu L, Han D, Guan X, Zhang B. (2023). Divergent sensitivity of vegetation to aridity between drylands and humid regions. **Science of The Total Environment**, 884:163910. https://doi.org/10.1016/j.scitotenv.2023.163910
+
+[48] Wu W, Ji F\*, Hu S, **He Y**. (2023). Asymmetric drying and wetting trends in Eastern and Western China. **Advances in Atmospheric Sciences**. https://doi.org/10.1007/s00376-022-2216-x
+
+[47] Zhang B, **He Y\***, Ren Y, Huang B, Peng Y, Wang S, Guan X. The influence of the precipitation recycling process on the shift to heavy precipitation over the Tibetan Plateau in the summer. **Frontiers in Earth Science**. 11:1078501 https://doi.org/10.3389/feart.2023.1078501
+
+[46] **He Y\***, Zhang B, Xia Z, Wang S, Guan X. (2023). Global warming has increased the distance traveled by marine heatwaves. **Geophysical Research Letters**, 50(2). https://doi.org/10.1029/2022GL102032
+
+[45] Wang G, **He Y**, Zhang B, Wang X, Cheng S, Xie Y, et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 106494. https://doi.org/10.1016/j.atmosres.2022.106494 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang 等 - 2022 - Historical evaluation and projection of precipitat.pdf)
+
+[44] Gao Z, Guan X\*, He B, Zhao L, Xie Y, **He Y**, Ji F. (2023). Impacts of the Tibetan Plateau on aridity change over the Northern Hemisphere. **Atmospheric Research**, 281, 106470. https://doi.org/10.1016/j.atmosres.2022.106470 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Gao et al_2023_Impacts of the Tibetan Plateau on aridity change over the Northern Hemisphere.pdf)
+
+[43] Liu Y, Huang J\*, Wang T, Li J, Yan H, **He Y**. (2022). Aerosol-cloud interactions over the Tibetan Plateau: An overview. **Earth-Science Reviews**, 234, 104216. https://doi.org/10.1016/j.earscirev.2022.104216 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Liu et al_2022_Aerosol-cloud interactions over the Tibetan Plateau.pdf)
+
+[42] Guo S, Guan X\*, Gao L, Sun W, Cao C, **He Y**. (2022). Opposite Atlantic Multidecadal Oscillation effects on dry/wet changes over Central and East Asian drylands. **Atmospheric Research**, 271, 106102. https://doi.org/10.1016/j.atmosres.2022.106102 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Guo_2022_Opposite Atlantic Multidecadal Oscillation effects on dry-wet changes over.pdf)
+
+[41] Huang X, Guan X\*, Zhu K, Gu T, Huang J, **He Y**. (2022). Influence of water vapor influx on interdecadal change in summer precipitation over the source area of the Yellow River Basin. **Atmospheric Research**, 276, 106270. https://doi.org/10.1016/j.atmosres.2022.106270 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Huang et al_2022_Influence of water vapor influx on interdecadal change in summer precipitation.pdf)
+
+[40] Luo F, Wang S\*, **He Y**, Wang Y, Wang H. (2022). Anthropogenic warming has increased the 2020 extreme hot and dry conditions over Southwest China. **Bulletin of the American Meteorological Society**, 103(3), S124–S129. https://doi.org/10.1175/BAMS-D-21-0208.1 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Luo et al_2022_Anthropogenic Warming Has Increased the 2020 Extreme Hot and Dry Conditions.pdf)
+
+[39] Ren Y, Yu H, Liu C, **He Y**, Huang J, Zhang L, et al. (2022). Attribution of Dry and Wet Climatic Changes over Central Asia.* **Journal of Climate**, 35(5), 1399–1421. https://doi.org/10.1175/JCLI-D-21-0329.1 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Ren et al_2022_Attribution of Dry and Wet Climatic Changes over Central Asia.pdf)
+
+[38] Wang G, **He Y\***, Huang J, Guan X, Wang X, Hu H, et al. (2022). The influence of precipitation phase changes on the recharge process of terrestrial water storage in the cold season over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 127(4). https://doi.org/10.1029/2021JD035824
+
+[37] Wang S, Huang J\*, Huang G, Luo F, Ren Y, **He Y**. (2022). Enhanced impacts of indian ocean sea surface temperature on the dry/wet variations over Northwest China. **Journal of Geophysical Research: Atmospheres**, 127(11). https://doi.org/10.1029/2022JD036533
+
+[36] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
+
+[35] Wu W, Ji F\*, Hu S, **He Y**, Wei Y, Xu Z, Yu H. (2022). Future evolution of global land surface air temperature trend based on CMIP6 models. **International Journal of Climatology**, joc.7668. https://doi.org/10.1002/joc.7668 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wu et al_2022_Future evolution of global land surface air temperature trend based on span.pdf)
+
+[34] Xie Y\*, Nie H, **He Y**. (2022). Extratropical climate change during periods before and after an Arctic ice‐free summer. **Earth’s Future**, 10(8). https://doi.org/10.1029/2022EF002881 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Xie 等。 - 2022 - Extratropical Climate Change During Periods Before.pdf)
+
+[33] Zhang J, Wang S, **He Y**, Ren Y, Huang J. (2022). Contribution of the precipitation‐recycling process to the wetting trend in Xinjiang, China. **Journal of Geophysical Research: Atmospheres**, 127(11). https://doi.org/10.1029/2021JD036407 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang 等。 - 2022 - Contribution of the Precipitation‐Recycling Proces.pdf)
+
+[32] Zhou B, Hu S\*, **He Y**, Wang S, Li D, Feng G. (2022). Quantitative evaluations of subtropical westerly jet simulations over East Asia based on multiple CMIP5 and CMIP6 GCMs. **Atmospheric Research**, 276, 106257. https://doi.org/10.1016/j.atmosres.2022.106257[[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhou et al_2022_Quantitative evaluations of subtropical westerly jet simulations over East Asia.pdf)
+
+[31] 夏子涵, **何永利\***, 季飞, 王小霞. (2022). 全球变暖背景下海洋热浪事件的变化特征分析. **兰州大学学报(自然科学版)**, 58(4), 560–568. https://doi.org/10.13885/j.issn.0455-2059.2022.04.017 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/夏 et al_2022_全球变暖背景下海洋热浪事件的变化特征分析.pdf)
 
 ## 全部论文列表
 
