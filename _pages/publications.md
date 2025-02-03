@@ -8,42 +8,46 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
+[17] Jia J, **He Y**, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
 
-[1] **He Y\***, Peng Y, Wang Z, Wang S, Guan X. (2024). The transition to humid extreme cold events in winter during the past six decades over China. **Environmental Research Letter**, https://doi.org/10.1088/1748-9326/ad6cea
+[16] **He Y\***, Peng Y, Wang Z, Wang S, Guan X. (2024). The transition to humid extreme cold events in winter during the past six decades over China. **Environmental Research Letter**, https://doi.org/10.1088/1748-9326/ad6cea
 
-[2] Peng Y, **He Y\***, Wang X, Jia J, Huang B, Li D, Ji F, Wang S, Guan X. (2024). The influence of water vapour on winter humidity‐related extreme cold events in China. **International Journal of Climatology**, 44:3464–3482. https://doi.org/10.1002/joc.8533
+[15] Peng Y, **He Y\***, Wang X, Jia J, Huang B, Li D, Ji F, Wang S, Guan X. (2024). The influence of water vapour on winter humidity‐related extreme cold events in China. **International Journal of Climatology**, 44:3464–3482. https://doi.org/10.1002/joc.8533
 
-[3] Huang B, **He Y\***, Li D, Zhang B, Jia J. (2024). The influence of latent heating on the sub-seasonal prediction of winter blocking over Northern Hemisphere. **Climate Dynamics**, 62:10167–10184. https://doi.org/10.1007/s00382-024-06921-z
+[14] Huang B, **He Y\***, Li D, Zhang B, Jia J. (2024). The influence of latent heating on the sub-seasonal prediction of winter blocking over Northern Hemisphere. **Climate Dynamics**, 62:10167–10184. https://doi.org/10.1007/s00382-024-06921-z
 
-[4] **He Y\***, Wang X, Zhang B, Wang Z, Wang S. (2023). Contrast responses of strong and weak winter extreme cold events in the Northern Hemisphere to global warming. **Climate Dynamics**. https://doi.org/10.1007/s00382-023-06822-7
+[13] **He Y\***, Wang X, Zhang B, Wang Z, Wang S. (2023). Contrast responses of strong and weak winter extreme cold events in the Northern Hemisphere to global warming. **Climate Dynamics**. 61,4533–4550. https://doi.org/10.1007/s00382-023-06822-7
 
-[5] Zhang B, **He Y\***, Ren Y, Huang B, Peng Y, Wang S, Guan X. (2023). The influence of the precipitation recycling process on the shift to heavy precipitation over the Tibetan Plateau in the summer. **Frontiers in Earth Science**. 11:1078501 https://doi.org/10.3389/feart.2023.1078501
+[12] Zhang B, **He Y\***, Ren Y, Huang B, Peng Y, Wang S, Guan X. (2023). The influence of the precipitation recycling process on the shift to heavy precipitation over the Tibetan Plateau in the summer. **Frontiers in Earth Science**. 11:1078501 https://doi.org/10.3389/feart.2023.1078501
 
-[6] **He Y\***, Zhang B, Xia Z, Wang S, Guan X. (2023). Global warming has increased the distance traveled by marine heatwaves. **Geophysical Research Letters**, 50(2). https://doi.org/10.1029/2022GL102032
+[11] **He Y\***, Zhang B, Xia Z, Wang S, Guan X. (2023). Global warming has increased the distance traveled by marine heatwaves. **Geophysical Research Letters**, 50(2), e2022GL102032. https://doi.org/10.1029/2022GL102032
 
-[7] Wang G, **He Y**, Zhang B, Wang X, Cheng S, Xie Y, et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 106494. https://doi.org/10.1016/j.atmosres.2022.106494 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang 等 - 2022 - Historical evaluation and projection of precipitat.pdf)
+[10] Wang G, **He Y**, Zhang B, Wang X, Cheng S, Xie Y, et al. (2022). Historical evaluation and projection of precipitation phase changes in the cold season over the Tibetan Plateau based on CMIP6 multimodels. **Atmospheric Research**, 281, 106494. https://doi.org/10.1016/j.atmosres.2022.106494 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang 等 - 2022 - Historical evaluation and projection of precipitat.pdf)
 
-[8] Wang G, **He Y\***, Huang J, Guan X, Wang X, Hu H, et al. (2022). The influence of precipitation phase changes on the recharge process of terrestrial water storage in the cold season over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 127(4). https://doi.org/10.1029/2021JD035824
+[9] Wang G, **He Y\***, Huang J, Guan X, Wang X, Hu H, et al. (2022). The influence of precipitation phase changes on the recharge process of terrestrial water storage in the cold season over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 127(4). https://doi.org/10.1029/2021JD035824
 
-[9] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
+[8] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
 
-[10] **He Y**, Tian W, Huang J\*, Wang G, Ren Y, Yan H, et al. (2021). The Mechanism of Increasing Summer Water Vapor Over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 126(10). https://doi.org/10.1029/2020JD034166
+[7] **He Y**, Tian W, Huang J\*, Wang G, Ren Y, Yan H, et al. (2021). The Mechanism of Increasing Summer Water Vapor Over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 126(10). https://doi.org/10.1029/2020JD034166
 
-[11] Bi L, **He Y\***, Huang J, Li Y, Guan X, Liu X. (2020). The global response of temperature to high-latitude vegetation greening in a two-dimensional energy balance model. **Atmospheric and Oceanic Science Letters**, 13(1), 80–87. https://doi.org/10.1080/16742834.2020.1696650
+[6] Bi L, **He Y\***, Huang J, Li Y, Guan X, Liu X. (2020). The global response of temperature to high-latitude vegetation greening in a two-dimensional energy balance model. **Atmospheric and Oceanic Science Letters**, 13(1), 80–87. https://doi.org/10.1080/16742834.2020.1696650
 
-[12] **He Y**, Huang J\*, Li D, Xie Y, Zhang G, Qi Y, et al. (2018). Comparison of the effect of land-sea thermal contrast on interdecadal variations in winter and summer blockings. **Climate Dynamics**, 51(4), 1275–1294. https://doi.org/10.1007/s00382-017-3954-9
+[5] **He Y**, Huang J\*, Li D, Xie Y, Zhang G, Qi Y, et al. (2018). Comparison of the effect of land-sea thermal contrast on interdecadal variations in winter and summer blockings. **Climate Dynamics**, 51(4), 1275–1294. https://doi.org/10.1007/s00382-017-3954-9
 
-[13] **He Y**, Huang J\*, Shugart HH, Guan X, Wang B, Yu K. (2017). Unexpected Evergreen Expansion in the Siberian Forest under Warming Hiatus. **Journal of Climate**, 30(13), 5021–5039. https://doi.org/10.1175/JCLI-D-16-0196.1
+[4] **He Y**, Huang J\*, Shugart HH, Guan X, Wang B, Yu K. (2017). Unexpected Evergreen Expansion in the Siberian Forest under Warming Hiatus. **Journal of Climate**, 30(13), 5021–5039. https://doi.org/10.1175/JCLI-D-16-0196.1
 
-[14] **He Y**, Huang J\*, Ji M. (2014). Impact of land–sea thermal contrast on interdecadal variation in circulation and blocking. **Climate Dynamics**, 43(12), 3267–3279. https://doi.org/10.1007/s00382-014-2103-y 
+[3] **He Y**, Huang J\*, Ji M. (2014). Impact of land–sea thermal contrast on interdecadal variation in circulation and blocking. **Climate Dynamics**, 43(12), 3267–3279. https://doi.org/10.1007/s00382-014-2103-y 
 
 ### 中文论文
 
-[15] 夏子涵, **何永利\***, 季飞, 王小霞. (2022). 全球变暖背景下海洋热浪事件的变化特征分析. **兰州大学学报(自然科学版)**, 58(4), 560–568. https://doi.org/10.13885/j.issn.0455-2059.2022.04.017 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/夏 et al_2022_全球变暖背景下海洋热浪事件的变化特征分析.pdf)
+[2] 夏子涵, **何永利\***, 季飞, 王小霞. (2022). 全球变暖背景下海洋热浪事件的变化特征分析. **兰州大学学报(自然科学版)**, 58(4), 560–568. https://doi.org/10.13885/j.issn.0455-2059.2022.04.017 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/夏 et al_2022_全球变暖背景下海洋热浪事件的变化特征分析.pdf)
 
-[16] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712.
+[1] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712.
 
 ## 全部论文列表
+
+### 2025
+[60] Jia J, **He Y\***, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
 
 ### 2024
 [59] Sun W, Chen H, Guan X\*, Shen X, Ma T, **He Y**, Nie J. (2024). Improved prediction of extreme rainfall using a machine learning approach. **Advances in Atmospheric Sciences**, https://doi.org/10.1007/s00376-024-4269-5
