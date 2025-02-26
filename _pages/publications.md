@@ -8,6 +8,8 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
+[18] Zhang B, **He Y**, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
+
 [17] Jia J, **He Y**, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
 
 [16] **He Y\***, Peng Y, Wang Z, Wang S, Guan X. (2024). The transition to humid extreme cold events in winter during the past six decades over China. **Environmental Research Letter**, https://doi.org/10.1088/1748-9326/ad6cea
@@ -47,6 +49,8 @@ author_profile: true
 ## 全部论文列表
 
 ### 2025
+[61] Zhang B, **He Y**, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
+
 [60] Jia J, **He Y\***, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
 
 ### 2024
