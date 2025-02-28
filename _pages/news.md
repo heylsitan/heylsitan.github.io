@@ -4,6 +4,8 @@ permalink: /news/
 author_profile: true
 ---
 
+- 2025.01.27：祝贺贾晶晶的第一篇论文发表在Atmospheric Research期刊
+
 - 2024.12.27：祝贺王湛博在研究生年会获得一等奖
 
 - 2024.11.29：祝贺王小霞获得甘肃省硕士优秀论文

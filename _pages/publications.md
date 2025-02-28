@@ -8,7 +8,7 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
-[18] Zhang B, **He Y**, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
+[18] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
 
 [17] Jia J, **He Y**, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
 
@@ -49,7 +49,7 @@ author_profile: true
 ## 全部论文列表
 
 ### 2025
-[61] Zhang B, **He Y**, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
+[61] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
 
 [60] Jia J, **He Y\***, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
 
