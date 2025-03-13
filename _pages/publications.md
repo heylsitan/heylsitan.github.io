@@ -8,6 +8,8 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
+[19] Zhang B, **He Y\***, Wang Z, Huang B, Xie Y, Guan X, Huang J. (2025). Disagreement in detected heatwaves trends resulting from diagnostic methods. **Geophysical Research Letters**, 52(6), e2024GL114398. https://doi.org/10.1029/2024GL0114398
+
 [18] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
 
 [17] Jia J, **He Y**, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
@@ -28,7 +30,7 @@ author_profile: true
 
 [9] Wang G, **He Y\***, Huang J, Guan X, Wang X, Hu H, et al. (2022). The influence of precipitation phase changes on the recharge process of terrestrial water storage in the cold season over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 127(4). https://doi.org/10.1029/2021JD035824
 
-[8] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
+[8] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 14(1):86. https://doi.org/10.3390/rs14010086
 
 [7] **He Y**, Tian W, Huang J\*, Wang G, Ren Y, Yan H, et al. (2021). The Mechanism of Increasing Summer Water Vapor Over the Tibetan Plateau. **Journal of Geophysical Research: Atmospheres**, 126(10). https://doi.org/10.1029/2020JD034166
 
@@ -49,6 +51,8 @@ author_profile: true
 ## 全部论文列表
 
 ### 2025
+[62] Zhang B, **He Y\***, Wang Z, Huang B, Xie Y, Guan X, Huang J. (2025). Disagreement in detected heatwaves trends resulting from diagnostic methods. **Geophysical Research Letters**, 52(6), e2024GL114398. https://doi.org/10.1029/2024GL0114398
+
 [61] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
 
 [60] Jia J, **He Y\***, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
@@ -106,7 +110,7 @@ author_profile: true
 
 [36] Wang S, Huang J\*, Huang G, Luo F, Ren Y, **He Y**. (2022). Enhanced impacts of indian ocean sea surface temperature on the dry/wet variations over Northwest China. **Journal of Geophysical Research: Atmospheres**, 127(11). https://doi.org/10.1029/2022JD036533
 
-[35] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 279:113139. https://doi.org/10.1016/j.rse.2022.113139
+[35] Wang S, **He Y\***, Hu S, Ji F, Wang B, Guan X, Piccolroaz S. (2022). Enhanced warming in global dryland lakes and its drivers. **Remote Sensing**, 14(1):86. https://doi.org/10.3390/rs14010086
 
 [34] Wu W, Ji F\*, Hu S, **He Y**, Wei Y, Xu Z, Yu H. (2022). Future evolution of global land surface air temperature trend based on CMIP6 models. **International Journal of Climatology**, joc.7668. https://doi.org/10.1002/joc.7668 [[pdf]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wu et al_2022_Future evolution of global land surface air temperature trend based on span.pdf)
 
