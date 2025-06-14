@@ -12,13 +12,13 @@ author_profile: true
 
 [18] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
 
-[17] Jia J, **He Y**, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2022.107955
+[17] Jia J, **He Y**, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2025.107955
 
 [16] **He Y\***, Peng Y, Wang Z, Wang S, Guan X. (2024). The transition to humid extreme cold events in winter during the past six decades over China. **Environmental Research Letter**, https://doi.org/10.1088/1748-9326/ad6cea
 
 [15] Peng Y, **He Y\***, Wang X, Jia J, Huang B, Li D, Ji F, Wang S, Guan X. (2024). The influence of water vapour on winter humidity‐related extreme cold events in China. **International Journal of Climatology**, 44:3464–3482. https://doi.org/10.1002/joc.8533
 
-[14] Huang B, **He Y\***, Li D, Zhang B, Jia J. (2024). The influence of latent heating on the sub-seasonal prediction of winter blocking over Northern Hemisphere. **Climate Dynamics**, 62:10167–10184. https://doi.org/10.1007/s00382-024-06921-z
+[14] Huang B, **He Y\***, Li D, Zhang B, Jia J. (2024). The influence of latent heating on the sub-seasonal prediction of winter blocking over Northern Hemisphere. **Climate Dynamics**, 62:10167–10184. https://doi.org/10.1007/s00382-024-07442-5
 
 [13] **He Y\***, Wang X, Zhang B, Wang Z, Wang S. (2023). Contrast responses of strong and weak winter extreme cold events in the Northern Hemisphere to global warming. **Climate Dynamics**. 61,4533–4550. https://doi.org/10.1007/s00382-023-06822-7
 
