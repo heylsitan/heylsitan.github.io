@@ -8,7 +8,7 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
-[19] Zhang B, **He Y\***, Wang Z, Huang B, Xie Y, Guan X, Huang J. (2025). Disagreement in detected heatwaves trends resulting from diagnostic methods. **Geophysical Research Letters**, 52(6), e2024GL114398. https://doi.org/10.1029/2024GL0114398
+[19] Zhang B, **He Y\***, Wang Z, Huang B, Xie Y, Guan X, Huang J. (2025). Disagreement in detected heatwaves trends resulting from diagnostic methods. **Geophysical Research Letters**, 52(6), e2024GL114398. https://doi.org/10.1029/2024GL114398
 
 [18] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
 
