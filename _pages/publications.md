@@ -9,6 +9,7 @@ author_profile: true
 
 ### 英文论文
 [20] Wang, G., **He, Y.\***, Ni, C., Zhong, Y., Deng, G., Xu, J., Liu, J., Xu, Y. and Chen, D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926
+
 [19] Zhang B, **He Y\***, Wang Z, Huang B, Xie Y, Guan X, Huang J. (2025). Disagreement in detected heatwaves trends resulting from diagnostic methods. **Geophysical Research Letters**, 52(6), e2024GL114398. https://doi.org/10.1029/2024GL114398
 
 [18] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
@@ -52,19 +53,19 @@ author_profile: true
 ## 全部论文列表
 
 ### 2025
-[64] Wang, G., **He, Y.\***, Ni, C., Zhong, Y., Deng, G., Xu, J., Liu, J., Xu, Y. and Chen, D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926
+[64] Cheng, S., **Wang, S.\***, Zuo, J., **He, Y.**, Zhang, Y. (2025). Divergent Risks of Dry and Wet Heat Waves Across China: Historical Trends and Future Projections. **Journal of Geophysical Research: Atmospheres**, 130(13).
 
-[63] Sun, W., Chen, H., Guan, X.\*, Shen, X., Ma, T., **He, Y.\***, Nie, J. Improved Prediction of Extreme Rainfall Using a Machine Learning Approach. Adv. Atmos. Sci. (2025). https://doi.org/10.1007/s00376-024-4269-5
+[63] Wang, G., **He, Y.\***, Ni, C., Zhong, Y., Deng, G., Xu, J., Liu, J., Xu, Y. and Chen, D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926
 
-[62] Zhang B, **He Y\***, Wang Z, Huang B, Xie Y, Guan X, Huang J. (2025). Disagreement in detected heatwaves trends resulting from diagnostic methods. **Geophysical Research Letters**, 52(6), e2024GL114398. https://doi.org/10.1029/2024GL114398
+[62] Sun, W., Chen, H., Guan, X.\*, Shen, X., Ma, T., He, Y., Nie, J. Improved Prediction of Extreme Rainfall Using a Machine Learning Approach. **Adv. Atmos. Sci.** (2025), 42(8), 1661-1674. https://doi.org/10.1007/s00376-024-4269-5
 
-[61] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
+[61] Zhang B, **He Y\***, Wang Z, Huang B, Xie Y, Guan X, Huang J. (2025). Disagreement in detected heatwaves trends resulting from diagnostic methods. **Geophysical Research Letters**, 52(6), e2024GL114398. https://doi.org/10.1029/2024GL114398
 
-[60] Jia J, **He Y\***, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2025.107955
+[60] Zhang B, **He Y\***, & Guan X. (2025). Increasing trends of land and coastal heatwaves under global warming. **Atmospheric Research**, 318, 108007. https://doi.org/10.1016/j.atmosres.2025.108007
+
+[59] Jia J, **He Y\***, Zhang B, Huo Z, Tang Z, Wang S, Yu H, Guan X. (2025). Evaluation of hourly summer precipitation products over the Tibetan Plateau: A comparative analysis of IMERG, CMORPH, and TPHiPr. **Atmospheric Research**, 107955. https://doi.org/10.1016/j.atmosres.2025.107955
 
 ### 2024
-[59] Sun W, Chen H, Guan X\*, Shen X, Ma T, **He Y**, Nie J. (2024). Improved prediction of extreme rainfall using a machine learning approach. **Advances in Atmospheric Sciences**, https://doi.org/10.1007/s00376-024-4269-5
-
 [58] **He Y\***, Peng Y, Wang Z, Wang S, Guan X. (2024). The transition to humid extreme cold events in winter during the past six decades over China. **Environmental Research Letter**, https://doi.org/10.1088/1748-9326/ad6cea
 
 [57] Li C, Huang J\*, Liu X, Ding L, **He Y**, Xie Y. (2024). The ocean losing its breath under the heatwaves. **Nature Communication**, 15:6840. https://doi.org/10.1038/s41467-024-51323-8
