@@ -8,7 +8,9 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
-[20] Wang, G., **He, Y.\***, Ni, C., Zhong, Y., Deng, G., Xu, J., Liu, J., Xu, Y. and Chen, D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926
+[21] Wang X, He Y, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4
+
+[20] Wang G, **He Y\***, Ni C, Zhong Y, Deng G, Xu J, Liu J, Xu Y and Chen D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926
 
 [19] Zhang B, **He Y\***, Wang Z, Huang B, Xie Y, Guan X, Huang J. (2025). Disagreement in detected heatwaves trends resulting from diagnostic methods. **Geophysical Research Letters**, 52(6), e2024GL114398. https://doi.org/10.1029/2024GL114398
 
@@ -53,6 +55,8 @@ author_profile: true
 ## 全部论文列表
 
 ### 2025
+[65] Wang X, He Y, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4
+
 [64] Cheng, S., **Wang, S.\***, Zuo, J., **He, Y.**, Zhang, Y. (2025). Divergent Risks of Dry and Wet Heat Waves Across China: Historical Trends and Future Projections. **Journal of Geophysical Research: Atmospheres**, 130(13).
 
 [63] Wang, G., **He, Y.\***, Ni, C., Zhong, Y., Deng, G., Xu, J., Liu, J., Xu, Y. and Chen, D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926
