@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "cn-Zh"
+locale                   : "zh-CN"
 title                    : "何永利"
 title_separator          : "-"
 name                     : &name "何永利"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/500x300.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -85,11 +85,11 @@ author:
   bio              : "兰州大学大气科学学院副教授"
   location         : "兰州，中国"
   employer         :
-  googlescholar    : "hhttps://scholar.google.com/citations?hl=en&user=qi9u5dwAAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=qi9u5dwAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "heyongli@lzu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yongli-He"
   github           : "heylsitan"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0183-378X"
+  orcid            : "https://orcid.org/0000-0002-0183-378X"
 
 
 
@@ -231,7 +231,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
