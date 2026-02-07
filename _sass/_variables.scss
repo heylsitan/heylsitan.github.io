@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 18;
+$doc-font-size              : 17;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -47,24 +47,24 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #6c757d;
+$dark-gray                  : #343a40;
+$darker-gray                : #212529;
+$light-gray                 : #dee2e6;
+$lighter-gray               : #f8f9fa;
 
 $body-color                 : #fff;
 $background-color           : #fff;
-$code-background-color      : #fafafa;
+$code-background-color      : #f8f9fa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #212529;
+$border-color               : #e9ecef;
 
-$primary-color              : #003366; /* Academic Blue */
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #005b96; /* Lighter Academic Blue for links */
+$primary-color              : #495057; /* Neutral Gray */
+$success-color              : #28a745;
+$warning-color              : #ffc107;
+$danger-color               : #dc3545;
+$info-color                 : #17a2b8; /* Neutral Blue for links */
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : #007bff;
+$link-color-hover           : #0056b3;
+$link-color-visited         : #6610f2;
+$masthead-link-color        : $dark-gray;
+$masthead-link-color-hover  : #000;
 
 
 /*

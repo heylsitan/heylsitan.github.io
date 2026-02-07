@@ -226,15 +226,13 @@
     a {
       position: relative;
       padding: 0.5rem 1rem;
-      border-radius: $border-radius;
-      transition: background-color 0.2s ease, color 0.2s ease;
+      transition: color 0.2s ease;
 
       &:hover {
-        background-color: mix(#fff, $primary-color, 90%);
-        color: $primary-color;
+        color: #007bff;
       }
-      
-      /* Remove the old underline effect */
+
+      /* Remove the old background effect */
       &:before {
         display: none;
       }
