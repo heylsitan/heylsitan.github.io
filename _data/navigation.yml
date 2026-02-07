@@ -3,6 +3,9 @@ main:
   - title: "学术论文"
     url: /publications/
 
+  - title: "研究项目"
+    url: /research/
+
   - title: "新闻动态"
     url: /news/
 
@@ -10,19 +13,19 @@ main:
     url: /groups/
 
   - title: "国际会议报告"
-    url: /talks/    
+    url: /talks/
 
   #- title: "Teaching"
-  #  url: /teaching/    
-    
+  #  url: /teaching/
+
   #- title: "Portfolio"
   #  url: /portfolio/
-        
+
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
+
   - title: "联系方式"
     url: /contact/
-    
+
   #- title: "Guide"
   #  url: /markdown/
