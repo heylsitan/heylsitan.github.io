@@ -17,6 +17,8 @@ author_profile: true
 ## 2024
 
 **12.27** &nbsp;&nbsp; 祝贺王湛博在研究生年会获得一等奖
+**2026.02** &nbsp;&nbsp; 恭喜新论文 "Dipole patterns of spring precipitation in Northeast China" 在 *Atmospheric Research* 发表！
+
 
 **11.29** &nbsp;&nbsp; 祝贺王小霞获得甘肃省硕士优秀论文
 
