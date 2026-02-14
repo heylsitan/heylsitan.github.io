@@ -60,7 +60,7 @@ author_profile: true
 ### 2025 (7)
 [65] Wang X, **He Y***, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4
 
-[64] Cheng S, **Wang S***, Zuo J, **He Y**, Zhang Y. (2025). Divergent Risks of Dry and Wet Heat Waves Across China: Historical Trends and Future Projections. **Journal of Geophysical Research: Atmospheres**, 130(13).
+[64] Cheng S, **Wang S***, Zuo J, **He Y**, Zhang Y. (2025). Divergent Risks of Dry and Wet Heat Waves Across China: Historical Trends and Future Projections. **Journal of Geophysical Research: Atmospheres**, 130(13), e2025JD043935. https://doi.org/10.1029/2025JD043935.
 
 [63] Wang G, **He Y***, Ni C, Zhong Y, Deng G, Xu J, Liu J, Xu Y and Chen D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926
 
