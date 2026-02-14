@@ -54,6 +54,9 @@ author_profile: true
 
 ## 全部论文列表
 
+### 2026 (1)
+[66] Shu X, **Wang S***, Hu Y, Pang Y, Wang H, **He Y**, Ji F, Huang J, Zhang J. (2026). Dipole patterns of spring precipitation in Northeast China: Links to Kara Sea ice and Eurasian snow cover. **Atmospheric Research**, 336, 108829. https://doi.org/10.1016/j.atmosres.2026.108829
+
 ### 2025 (7)
 [65] Wang X, **He Y***, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4
 
