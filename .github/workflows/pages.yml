@@ -24,7 +24,11 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
-          bundler-cache: true
+          bundler-cache: false # 暂时禁用缓存，强制重新安装以排除污染
+      - name: Install dependencies
+        run: |
+          rm -f Gemfile.lock
+          bundle install
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
