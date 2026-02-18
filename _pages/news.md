@@ -4,6 +4,16 @@ permalink: /news/
 author_profile: true
 ---
 
+## 2026
+
+**02** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 祝贺黄博的第二篇论文发表在 *Artificial Intelligence for the Earth Systems* 期刊
+
+**02** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 祝贺唐振的第一篇论文发表在 *Climate Dynamics* 期刊
+
+**02** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 恭喜新论文 "Dipole patterns of spring precipitation in Northeast China" 在 *Atmospheric Research* 发表！
+
+---
+
 ## 2025
 
 **09.17** &nbsp;&nbsp; 祝贺霍子欣和王昊获得保研资格，顺利加入课题组
@@ -17,7 +27,6 @@ author_profile: true
 ## 2024
 
 **12.27** &nbsp;&nbsp; 祝贺王湛博在研究生年会获得一等奖
-**2026.02** &nbsp;&nbsp; 恭喜新论文 "Dipole patterns of spring precipitation in Northeast China" 在 *Atmospheric Research* 发表！
 
 
 **11.29** &nbsp;&nbsp; 祝贺王小霞获得甘肃省硕士优秀论文
