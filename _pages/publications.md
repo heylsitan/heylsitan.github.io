@@ -54,7 +54,9 @@ author_profile: true
 
 ## 全部论文列表
 
-### 2026 (1)
+### 2026 (2)
+[67] Kong D, **He Y**, Yu H, Cong J, Ning G, Xu X, Lai Y, Wang K, Li Y*. (2026). Summer Drought Dynamics in the Sichuan Basin of China Driven by the Atmospheric Water Cycle. **Journal of Geophysical Research: Atmospheres**, 131:e2025JD045146. https://doi.org/10.1029/2025JD045146
+
 [66] Shu X, **Wang S***, Hu Y, Pang Y, Wang H, **He Y**, Ji F, Huang J, Zhang J. (2026). Dipole patterns of spring precipitation in Northeast China: Links to Kara Sea ice and Eurasian snow cover. **Atmospheric Research**, 336, 108829. https://doi.org/10.1016/j.atmosres.2026.108829
 
 ### 2025 (7)
