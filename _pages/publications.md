@@ -8,6 +8,8 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
+[22] **He Y**, Tang Z, Lan C, Zhang B, Jia J, Yu H*. (2026). The influence of precipitation recycling processes on summer precipitation variability over Northwest China. **Climate Dynamics**, 64:143. https://doi.org/10.1007/s00382-026-08112-4
+
 [21] Wang X, **He Y***, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4
 
 [20] Wang G, **He Y***, Ni C, Zhong Y, Deng G, Xu J, Liu J, Xu Y and Chen D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926
@@ -54,7 +56,9 @@ author_profile: true
 
 ## 全部论文列表
 
-### 2026 (2)
+### 2026 (3)
+[68] **He Y**, Tang Z, Lan C, Zhang B, Jia J, Yu H*. (2026). The influence of precipitation recycling processes on summer precipitation variability over Northwest China. **Climate Dynamics**, 64:143. https://doi.org/10.1007/s00382-026-08112-4
+
 [67] Kong D, **He Y**, Yu H, Cong J, Ning G, Xu X, Lai Y, Wang K, Li Y*. (2026). Summer Drought Dynamics in the Sichuan Basin of China Driven by the Atmospheric Water Cycle. **Journal of Geophysical Research: Atmospheres**, 131:e2025JD045146. https://doi.org/10.1029/2025JD045146
 
 [66] Shu X, **Wang S***, Hu Y, Pang Y, Wang H, **He Y**, Ji F, Huang J, Zhang J. (2026). Dipole patterns of spring precipitation in Northeast China: Links to Kara Sea ice and Eurasian snow cover. **Atmospheric Research**, 336, 108829. https://doi.org/10.1016/j.atmosres.2026.108829
