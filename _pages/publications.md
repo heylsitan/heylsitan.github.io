@@ -8,6 +8,8 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
+[23] Huang B, **He Y***, Ni B, Huo Z, Li D, Guan X. (2026). Evaluating machine learning and numerical models for wintertime atmospheric blocking prediction. **Artificial Intelligence for the Earth Systems**, Early Online Release. https://doi.org/10.1175/AIES-D-25-0067.1
+
 [22] **He Y**, Tang Z, Lan C, Zhang B, Jia J, Yu H*. (2026). The influence of precipitation recycling processes on summer precipitation variability over Northwest China. **Climate Dynamics**, 64:143. https://doi.org/10.1007/s00382-026-08112-4
 
 [21] Wang X, **He Y***, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4
@@ -56,7 +58,9 @@ author_profile: true
 
 ## 全部论文列表
 
-### 2026 (3)
+### 2026 (4)
+[69] Huang B, **He Y***, Ni B, Huo Z, Li D, Guan X. (2026). Evaluating machine learning and numerical models for wintertime atmospheric blocking prediction. **Artificial Intelligence for the Earth Systems**, Early Online Release. https://doi.org/10.1175/AIES-D-25-0067.1
+
 [68] **He Y**, Tang Z, Lan C, Zhang B, Jia J, Yu H*. (2026). The influence of precipitation recycling processes on summer precipitation variability over Northwest China. **Climate Dynamics**, 64:143. https://doi.org/10.1007/s00382-026-08112-4
 
 [67] Kong D, **He Y**, Yu H, Cong J, Ning G, Xu X, Lai Y, Wang K, Li Y*. (2026). Summer Drought Dynamics in the Sichuan Basin of China Driven by the Atmospheric Water Cycle. **Journal of Geophysical Research: Atmospheres**, 131:e2025JD045146. https://doi.org/10.1029/2025JD045146
