@@ -8,7 +8,7 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
-[23] Huang B, **He Y***, Ni B, Huo Z, Li D, Guan X. (2026). Evaluating machine learning and numerical models for wintertime atmospheric blocking prediction. **Artificial Intelligence for the Earth Systems**, Early Online Release. https://doi.org/10.1175/AIES-D-25-0067.1
+[23] Huang B, **He Y***, Ni B, Huo Z, Li D, Guan X. (2026). Evaluating machine learning and numerical models for wintertime atmospheric blocking prediction. **Artificial Intelligence for the Earth Systems**, 5(2). https://doi.org/10.1175/AIES-D-25-0067.1
 
 [22] **He Y**, Tang Z, Lan C, Zhang B, Jia J, Yu H*. (2026). The influence of precipitation recycling processes on summer precipitation variability over Northwest China. **Climate Dynamics**, 64:143. https://doi.org/10.1007/s00382-026-08112-4
 
@@ -59,7 +59,7 @@ author_profile: true
 ## 全部论文列表
 
 ### 2026 (4)
-[69] Huang B, **He Y***, Ni B, Huo Z, Li D, Guan X. (2026). Evaluating machine learning and numerical models for wintertime atmospheric blocking prediction. **Artificial Intelligence for the Earth Systems**, Early Online Release. https://doi.org/10.1175/AIES-D-25-0067.1
+[69] Huang B, **He Y***, Ni B, Huo Z, Li D, Guan X. (2026). Evaluating machine learning and numerical models for wintertime atmospheric blocking prediction. **Artificial Intelligence for the Earth Systems**, 5(2). https://doi.org/10.1175/AIES-D-25-0067.1
 
 [68] **He Y**, Tang Z, Lan C, Zhang B, Jia J, Yu H*. (2026). The influence of precipitation recycling processes on summer precipitation variability over Northwest China. **Climate Dynamics**, 64:143. https://doi.org/10.1007/s00382-026-08112-4
 
