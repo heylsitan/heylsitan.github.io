@@ -58,7 +58,9 @@ author_profile: true
 
 ## 全部论文列表
 
-### 2026 (4)
+### 2026 (5)
+[70] Zhang J, Wang S, Huang J, Shu X, Wang H, **He Y**, Ji F, Cheng S. (2026). Rossby Wave Breaking Driving Desert Extreme Precipitation in the UAE During April 2024. **Journal of Geophysical Research: Atmospheres**, 131:e2025JD045776. https://doi.org/10.1029/2025JD045776
+
 [69] Huang B, **He Y***, Ni B, Huo Z, Li D, Guan X. (2026). Evaluating machine learning and numerical models for wintertime atmospheric blocking prediction. **Artificial Intelligence for the Earth Systems**, 5(2). https://doi.org/10.1175/AIES-D-25-0067.1
 
 [68] **He Y**, Tang Z, Lan C, Zhang B, Jia J, Yu H*. (2026). The influence of precipitation recycling processes on summer precipitation variability over Northwest China. **Climate Dynamics**, 64:143. https://doi.org/10.1007/s00382-026-08112-4
