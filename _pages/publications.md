@@ -14,7 +14,7 @@ author_profile: true
 
 [22] **He Y**, Tang Z, Lan C, Zhang B, Jia J, Yu H*. (2026). The influence of precipitation recycling processes on summer precipitation variability over Northwest China. **Climate Dynamics**, 64:143. https://doi.org/10.1007/s00382-026-08112-4 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20The%20influence%20of%20precipitation%20recycling%20processes%20on%20summer%20precipitation%20variability%20over%20Northwes.pdf)
 
-[21] Wang X, **He Y***, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang%20%E7%AD%89%20-%20Assessment%20of%20winter%20three-dimensional%20extreme%20cold%20events%20over%20the%20Northern%20Hemisphere%20during%201959%E2%80%93.pdf)
+[21] Wang X, **He Y***, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4
 
 [20] Wang G, **He Y***, Ni C, Zhong Y, Deng G, Xu J, Liu J, Xu Y and Chen D. (2025), Evaluation of the ERA5 Reanalysis Snowfall Product in China. **International Journal of Climatology**, e8926. https://doi.org/10.1002/joc.8926 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang%20%E7%AD%89%20-%202025%20-%20Evaluation%20of%20the%20ERA5%20Reanalysis%20Snowfall%20Product%20in%20China.pdf)
 
@@ -74,7 +74,7 @@ author_profile: true
 [65] Shu X, **Wang S***, Hu Y, Pang Y, Wang H, **He Y**, Ji F, Huang J, Zhang J. (2026). Dipole patterns of spring precipitation in Northeast China: Links to Kara Sea ice and Eurasian snow cover. **Atmospheric Research**, 336, 108829. https://doi.org/10.1016/j.atmosres.2026.108829 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Shu%20%E7%AD%89%20-%202026%20-%20Dipole%20patterns%20of%20spring%20precipitation%20in%20northeast%20China%20Links%20to%20Kara%20Sea%20Ice%20and%20Eurasian%20snow.pdf)
 
 ### 2025 (7)
-[64] Wang X, **He Y***, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Wang%20%E7%AD%89%20-%20Assessment%20of%20winter%20three-dimensional%20extreme%20cold%20events%20over%20the%20Northern%20Hemisphere%20during%201959%E2%80%93.pdf)
+[64] Wang X, **He Y***, Jia J, Wang H, Li X, Chen T, Guan X. (2025) Assessment of winter three-dimensional extreme cold events over the Northern Hemisphere during 1959–2020 based on CMIP6 models. **Climate Dynamics**, 63:322. https://doi.org/10.1007/s00382-025-07831-4
 
 [63] Cheng S, **Wang S***, Zuo J, **He Y**, Zhang Y. (2025). Divergent Risks of Dry and Wet Heat Waves Across China: Historical Trends and Future Projections. **Journal of Geophysical Research: Atmospheres**, 130(13), e2025JD043935. https://doi.org/10.1029/2025JD043935. [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Cheng%20%E7%AD%89%20-%202025%20-%20Divergent%20Risks%20of%20Dry%20and%20Wet%20Heat%20Waves%20Across%20China%20Historical%20Trends%20and%20Future%20Projections.pdf)
 
