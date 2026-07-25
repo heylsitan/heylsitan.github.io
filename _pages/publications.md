@@ -8,6 +8,8 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
+[25] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**. https://doi.org/10.1038/s41467-026-75094-6
+
 [24] Zhang B, **He Y***, Lei N, Guan X. (2026). Differential synoptic circulation forcing of land and coastal heatwaves. **Journal of Geophysical Research: Atmospheres**, 131, e2026JD046358. https://doi.org/10.1029/2026JD046358 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang%20%E7%AD%89%20-%202026%20-%20Differential%20Synoptic%20Circulation%20Forcing%20of%20Land%20and%20Coastal%20Heatwaves.pdf)
 
 [23] Huang B, **He Y***, Ni B, Huo Z, Li D, Guan X. (2026). Evaluating machine learning and numerical models for wintertime atmospheric blocking prediction. **Artificial Intelligence for the Earth Systems**, 5(2). https://doi.org/10.1175/AIES-D-25-0067.1 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Huang%20%E7%AD%89%20-%20Evaluating%20Machine%20Learning%20and%20Numerical%20Models%20for%20Wintertime%20Atmospheric%20Blocking%20Prediction.pdf)
@@ -60,7 +62,9 @@ author_profile: true
 
 ## 全部论文列表
 
-### 2026 (6)
+### 2026 (7)
+[71] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**. https://doi.org/10.1038/s41467-026-75094-6
+
 [70] Zhang B, **He Y***, Lei N, Guan X. (2026). Differential synoptic circulation forcing of land and coastal heatwaves. **Journal of Geophysical Research: Atmospheres**, 131, e2026JD046358. https://doi.org/10.1029/2026JD046358 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang%20%E7%AD%89%20-%202026%20-%20Differential%20Synoptic%20Circulation%20Forcing%20of%20Land%20and%20Coastal%20Heatwaves.pdf)
 
 [69] Zhang J, Wang S, Huang J, Shu X, Wang H, **He Y**, Ji F, Cheng S. (2026). Rossby Wave Breaking Driving Desert Extreme Precipitation in the UAE During April 2024. **Journal of Geophysical Research: Atmospheres**, 131:e2025JD045776. https://doi.org/10.1029/2025JD045776 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang%20%E7%AD%89%20-%202026%20-%20Rossby%20Wave%20Breaking%20Driving%20Desert%20Extreme%20Precipitation%20in%20the%20UAE%20During%20April%202024.pdf)
