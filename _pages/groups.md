@@ -16,8 +16,6 @@ author_profile: true
 
 ### 硕士研究生
 
-**贾晶晶** &nbsp;&nbsp; 2023级 &nbsp;&nbsp; 研究方向：降水事件的集中性
-
 **唐振** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024级 &nbsp;&nbsp; 研究方向：水循环变化
 
 **兰楚涛** &nbsp;&nbsp; 2024级 &nbsp;&nbsp; 研究方向：强极寒的归因分析
@@ -25,6 +23,10 @@ author_profile: true
 **倪彬芮** &nbsp;&nbsp; 2025级 &nbsp;&nbsp; 研究方向：阻塞可预报性
 
 **邓砚升** &nbsp;&nbsp; 2025级 &nbsp;&nbsp; 研究方向：待定（与于海鹏合带）
+
+**霍子昕** &nbsp;&nbsp; 2026级 &nbsp;&nbsp; 研究方向：湿阻塞
+
+**王昊** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2026级 &nbsp;&nbsp; 研究方向：阻塞偏差及未来预估
 
 ---
 
@@ -69,3 +71,13 @@ author_profile: true
 **导师：** 何永利
 
 **去向：** 宝鸡市气象局
+
+### 贾晶晶
+
+**学位：** 硕士 (2023.09 - 2026.06)
+
+**论文：** 青藏高原夏季降水事件时空聚集度变化特征及机理研究
+
+**导师：** 何永利
+
+**去向：** 甘肃省气象局
