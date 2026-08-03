@@ -31,15 +31,25 @@
             {% if lang == site.active_lang %}
               <span class="lang-option lang-active">{% if lang == "zh" %}中文{% else %}English{% endif %}</span>
             {% else %}
-              {% if lang == site.default_lang %}
-                <a class="lang-option" href="{{ site.baseurl }}{{ page.url | replace_first: '/en/', '/' }}">{% if lang == "zh" %}中文{% else %}English{% endif %}</a>
-              {% else %}
-                <a class="lang-option" href="{{ site.baseurl }}/{{ lang }}{{ page.url }}">{% if lang == "zh" %}中文{% else %}English{% endif %}</a>
-              {% endif %}
+              <a class="lang-option" href="#" onclick="switchLang('{{ lang }}'); return false;">{% if lang == "zh" %}中文{% else %}English{% endif %}</a>
             {% endif %}
             {% unless forloop.last %}<span class="lang-sep">|</span>{% endunless %}
           {% endfor %}
         </span>
+        <script>
+        function switchLang(lang) {
+          var url = window.location.href;
+          var baseUrl = '{{ site.url }}';
+          if (lang === 'zh') {
+            url = url.replace(baseUrl + '/en/', baseUrl + '/');
+          } else {
+            if (url.indexOf(baseUrl + '/en/') === -1) {
+              url = url.replace(baseUrl + '/', baseUrl + '/en/');
+            }
+          }
+          window.location.href = url;
+        }
+        </script>
         {% endif %}
       </nav>
     </div>

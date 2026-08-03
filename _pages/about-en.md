@@ -4,9 +4,6 @@ title: "Yongli He"
 excerpt: "About me"
 author_profile: true
 lang: en
-redirect_from: 
-  - /en/about/
-  - /en/about.html
 ---
 
 Associate Professor & Doctoral Supervisor, College of Atmospheric Sciences, Lanzhou University.
