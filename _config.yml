@@ -253,4 +253,3 @@ plugins:
   - jekyll-redirect-from
   - jekyll-polyglot
 # mimic GitHub Pages with --safe
-plugins:
