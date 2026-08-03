@@ -15,15 +15,27 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% assign display_name = author.name %}
+    {% if site.active_lang == "en" and author.name_en %}
+      {% assign display_name = author.name_en %}
+    {% endif %}
+    <h3 class="author__name">{{ display_name }}</h3>
+    {% assign display_bio = author.bio %}
+    {% if site.active_lang == "en" and author.bio_en %}
+      {% assign display_bio = author.bio_en %}
+    {% endif %}
+    {% if author.bio %}<p class="author__bio">{{ display_bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        {% assign display_location = author.location %}
+        {% if site.active_lang == "en" and author.location_en %}
+          {% assign display_location = author.location_en %}
+        {% endif %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ display_location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

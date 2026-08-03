@@ -7,10 +7,17 @@
 
 # Site Settings
 locale                   : "zh-CN"
+languages                : ["zh", "en"]
+default_lang             : "zh"
+exclude_from_localization: ["javascript", "images", "css", "files", "assets", "_posts", "_publications", "_talks", "_teaching", "_portfolio", "talkmap", "markdown_generator"]
+parallel_localization    : true
 title                    : "何永利"
+title_en                 : "Yongli He"
 title_separator          : "-"
 name                     : &name "何永利"
+name_en                  : "Yongli He"
 description              : &description "兰州大学大气科学学院副教授、硕导"
+description_en           : "Associate Professor, College of Atmospheric Sciences, Lanzhou University"
 url                      : https://heylsitan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "heylsitan/heylsitan.github.io"
@@ -81,9 +88,12 @@ analytics:
 # Site Author
 author:
   name             : "何永利"
+  name_en          : "Yongli He"
   avatar           : "profile.jpg"
   bio              : "兰州大学大气科学学院副教授<br>研究方向：气候变化、极端事件"
+  bio_en           : "Associate Professor, Lanzhou University<br>Research: Climate Change, Extreme Events"
   location         : "兰州，中国"
+  location_en      : "Lanzhou, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=qi9u5dwAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "heyongli@lzu.edu.cn"
@@ -241,6 +251,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-polyglot
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

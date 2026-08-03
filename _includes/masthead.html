@@ -6,17 +6,41 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          {% assign site_title = site.title %}
+          {% if site.active_lang == "en" and site.title_en %}
+            {% assign site_title = site.title_en %}
+          {% endif %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site_title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign nav_title = link.title %}
+            {% if link.title.zh and link.title.en %}
+              {% assign nav_title = link.title[site.active_lang] %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ nav_title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        {% if site.languages.size > 1 %}
+        <span class="lang-switcher">
+          {% for lang in site.languages %}
+            {% if lang == site.active_lang %}
+              <span class="lang-option lang-active">{% if lang == "zh" %}中文{% else %}English{% endif %}</span>
+            {% else %}
+              {% if lang == site.default_lang %}
+                <a class="lang-option" href="{{ site.baseurl }}{{ page.url | replace_first: '/en/', '/' }}">{% if lang == "zh" %}中文{% else %}English{% endif %}</a>
+              {% else %}
+                <a class="lang-option" href="{{ site.baseurl }}/{{ lang }}{{ page.url }}">{% if lang == "zh" %}中文{% else %}English{% endif %}</a>
+              {% endif %}
+            {% endif %}
+            {% unless forloop.last %}<span class="lang-sep">|</span>{% endunless %}
+          {% endfor %}
+        </span>
+        {% endif %}
       </nav>
     </div>
   </div>

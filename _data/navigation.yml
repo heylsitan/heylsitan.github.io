@@ -1,34 +1,36 @@
 # main links links
 main:
-  - title: "学术论文"
+  - title:
+      zh: "学术论文"
+      en: "Publications"
     url: /publications/
 
-  - title: "研究项目"
+  - title:
+      zh: "研究项目"
+      en: "Projects"
     url: /research/
 
-  - title: "荣誉获奖"
+  - title:
+      zh: "荣誉获奖"
+      en: "Honors"
     url: /honors/
 
-  - title: "新闻动态"
+  - title:
+      zh: "新闻动态"
+      en: "News"
     url: /news/
 
-  - title: "课题组"
+  - title:
+      zh: "课题组"
+      en: "Group"
     url: /groups/
 
-  - title: "国际会议报告"
+  - title:
+      zh: "国际会议报告"
+      en: "Talks"
     url: /talks/
 
-  #- title: "Teaching"
-  #  url: /teaching/
-
-  #- title: "Portfolio"
-  #  url: /portfolio/
-
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-
-  - title: "联系方式"
+  - title:
+      zh: "联系方式"
+      en: "Contact"
     url: /contact/
-
-  #- title: "Guide"
-  #  url: /markdown/

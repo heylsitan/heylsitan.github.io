@@ -51,3 +51,43 @@
     font-weight: 700;
   }
 }
+
+/* Language Switcher */
+.lang-switcher {
+  margin-left: auto;
+  font-size: 0.85em;
+  font-family: $sans-serif-narrow;
+  white-space: nowrap;
+
+  .lang-option {
+    padding: 0 2px;
+    color: $primary-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .lang-active {
+    font-weight: 700;
+    color: $text-color;
+    cursor: default;
+  }
+
+  .lang-sep {
+    color: $border-color;
+    margin: 0 2px;
+  }
+}
+
+.greedy-nav {
+  display: flex;
+  align-items: center;
+
+  .visible-links {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
