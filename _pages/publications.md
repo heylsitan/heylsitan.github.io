@@ -8,7 +8,7 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
-[25] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**. https://doi.org/10.1038/s41467-026-75094-6 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20Ultra%20flash%20cold%20events%20under%20global%20warming.pdf)
+[25] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**, 17, 8266. https://doi.org/10.1038/s41467-026-75094-6 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20Ultra%20flash%20cold%20events%20under%20global%20warming.pdf)
 
 [24] Zhang B, **He Y***, Lei N, Guan X. (2026). Differential synoptic circulation forcing of land and coastal heatwaves. **Journal of Geophysical Research: Atmospheres**, 131, e2026JD046358. https://doi.org/10.1029/2026JD046358 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang%20%E7%AD%89%20-%202026%20-%20Differential%20Synoptic%20Circulation%20Forcing%20of%20Land%20and%20Coastal%20Heatwaves.pdf)
 
@@ -63,7 +63,7 @@ author_profile: true
 ## 全部论文列表
 
 ### 2026 (7)
-[71] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**. https://doi.org/10.1038/s41467-026-75094-6 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20Ultra%20flash%20cold%20events%20under%20global%20warming.pdf)
+[71] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**, 17, 8266. https://doi.org/10.1038/s41467-026-75094-6 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20Ultra%20flash%20cold%20events%20under%20global%20warming.pdf)
 
 [70] Zhang B, **He Y***, Lei N, Guan X. (2026). Differential synoptic circulation forcing of land and coastal heatwaves. **Journal of Geophysical Research: Atmospheres**, 131, e2026JD046358. https://doi.org/10.1029/2026JD046358 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang%20%E7%AD%89%20-%202026%20-%20Differential%20Synoptic%20Circulation%20Forcing%20of%20Land%20and%20Coastal%20Heatwaves.pdf)
 
