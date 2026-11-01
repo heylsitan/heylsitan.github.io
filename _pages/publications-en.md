@@ -8,6 +8,11 @@ author_profile: true
 
 ## First/Corresponding Author Publications
 
+<figure style="margin: 1.5em 0; text-align: center;">
+  <img src="/images/first-corresponding-papers-by-year-en.png" alt="Bar chart of first/corresponding-author papers by year" style="max-width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.5em; color: #666; font-size: 0.95em;">Annual first/corresponding-author papers, 2014–2026</figcaption>
+</figure>
+
 ### English Papers
 
 [26] Merghani MMA, **He Y***, Ibrahim MEA. (2026). Satellite-derived spread dynamics of three-dimensional fire events in Sudan. **Frontiers in Climate**. https://doi.org/10.3389/fclim.2026.1983725 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Merghani%20%E7%AD%89%20-%202026%20-%20Satellite-derived%20spread%20dynamics%20of%20three-dimensional%20fire%20events%20in%20Sudan.pdf)
