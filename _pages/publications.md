@@ -8,6 +8,8 @@ author_profile: true
 ## 第一作者/通讯作者论文
 
 ### 英文论文
+
+[26] Merghani MMA, **He Y***, Ibrahim MEA. (2026). Satellite-derived spread dynamics of three-dimensional fire events in Sudan. **Frontiers in Climate**. https://doi.org/10.3389/fclim.2026.1983725 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Merghani%20%E7%AD%89%20-%202026%20-%20Satellite-derived%20spread%20dynamics%20of%20three-dimensional%20fire%20events%20in%20Sudan.pdf)
 [25] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**, 17, 8266. https://doi.org/10.1038/s41467-026-75094-6 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20Ultra%20flash%20cold%20events%20under%20global%20warming.pdf)
 
 [24] Zhang B, **He Y***, Lei N, Guan X. (2026). Differential synoptic circulation forcing of land and coastal heatwaves. **Journal of Geophysical Research: Atmospheres**, 131, e2026JD046358. https://doi.org/10.1029/2026JD046358 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang%20%E7%AD%89%20-%202026%20-%20Differential%20Synoptic%20Circulation%20Forcing%20of%20Land%20and%20Coastal%20Heatwaves.pdf)
@@ -62,7 +64,9 @@ author_profile: true
 
 ## 全部论文列表
 
-### 2026 (7)
+### 2026 (8)
+[72] Merghani MMA, **He Y***, Ibrahim MEA. (2026). Satellite-derived spread dynamics of three-dimensional fire events in Sudan. **Frontiers in Climate**. https://doi.org/10.3389/fclim.2026.1983725 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Merghani%20%E7%AD%89%20-%202026%20-%20Satellite-derived%20spread%20dynamics%20of%20three-dimensional%20fire%20events%20in%20Sudan.pdf)
+
 [71] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**, 17, 8266. https://doi.org/10.1038/s41467-026-75094-6 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20Ultra%20flash%20cold%20events%20under%20global%20warming.pdf)
 
 [70] Zhang B, **He Y***, Lei N, Guan X. (2026). Differential synoptic circulation forcing of land and coastal heatwaves. **Journal of Geophysical Research: Atmospheres**, 131, e2026JD046358. https://doi.org/10.1029/2026JD046358 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang%20%E7%AD%89%20-%202026%20-%20Differential%20Synoptic%20Circulation%20Forcing%20of%20Land%20and%20Coastal%20Heatwaves.pdf)
