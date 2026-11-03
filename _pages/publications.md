@@ -64,13 +64,17 @@ author_profile: true
 
 ### 中文论文
 
+[3] 王昊, 霍子昕, **何永利***. (2026). 观测约束下青藏高原的未来增温预估. **兰州大学学报(自然科学版)**, 62(5), 569–577. https://doi.org/10.13885/j.issn.0455-2059.2026.05.001 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E7%8E%8B%20et%20al_2026_%E8%A7%82%E6%B5%8B%E7%BA%A6%E6%9D%9F%E4%B8%8B%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%A2%9E%E6%B8%A9%E9%A2%84%E4%BC%B0.pdf)
+
 [2] 夏子涵, **何永利***, 季飞, 王小霞. (2022). 全球变暖背景下海洋热浪事件的变化特征分析. **兰州大学学报(自然科学版)**, 58(4), 560–568. https://doi.org/10.13885/j.issn.0455-2059.2022.04.017 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E5%A4%8F%20et%20al_2022_%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96%E8%83%8C%E6%99%AF%E4%B8%8B%E6%B5%B7%E6%B4%8B%E7%83%AD%E6%B5%AA%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%8F%98%E5%8C%96%E7%89%B9%E5%BE%81%E5%88%86%E6%9E%90.pdf)
 
 [1] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712. [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E4%BD%95%20%E7%AD%89%20-%202019%20-%20%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96%E8%BF%87%E7%A8%8B%E4%B8%AD%E6%B5%B7%E9%99%86%E5%A2%9E%E6%B8%A9%E5%B7%AE%E5%BC%82%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
 ## 全部论文列表
 
-### 2026 (8)
+### 2026 (9)
+[73] 王昊, 霍子昕, **何永利***. (2026). 观测约束下青藏高原的未来增温预估. **兰州大学学报(自然科学版)**, 62(5), 569–577. https://doi.org/10.13885/j.issn.0455-2059.2026.05.001 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E7%8E%8B%20et%20al_2026_%E8%A7%82%E6%B5%8B%E7%BA%A6%E6%9D%9F%E4%B8%8B%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%A2%9E%E6%B8%A9%E9%A2%84%E4%BC%B0.pdf)
+
 [72] Merghani MMA, **He Y***, Ibrahim MEA. (2026). Satellite-derived spread dynamics of three-dimensional fire events in Sudan. **Frontiers in Climate**. https://doi.org/10.3389/fclim.2026.1983725 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Merghani%20%E7%AD%89%20-%202026%20-%20Satellite-derived%20spread%20dynamics%20of%20three-dimensional%20fire%20events%20in%20Sudan.pdf)
 
 [71] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**, 17, 8266. https://doi.org/10.1038/s41467-026-75094-6 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20Ultra%20flash%20cold%20events%20under%20global%20warming.pdf)
