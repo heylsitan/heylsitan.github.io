@@ -14,6 +14,8 @@ author_profile: true
 
 ### 英文论文
 
+[28] Lan C, **He Y***, Wang Z, Huo Z, Ni B, Guan X. (2026). Dynamical and thermodynamic drivers of the divergent trends in Northern Hemisphere winter extreme cold events. **Climate Dynamics**, 64:493. https://doi.org/10.1007/s00382-026-08460-1
+
 [27] Merghani MMA, **He Y***, Ibrahim MEA. (2026). Satellite-derived spread dynamics of three-dimensional fire events in Sudan. **Frontiers in Climate**. https://doi.org/10.3389/fclim.2026.1983725 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Merghani%20%E7%AD%89%20-%202026%20-%20Satellite-derived%20spread%20dynamics%20of%20three-dimensional%20fire%20events%20in%20Sudan.pdf)
 
 [26] **He Y**, Wang Z, Guan X\*, Xie Y, Huang J\*. (2026). Ultra flash cold events under global warming. **Nature Communications**, 17, 8266. https://doi.org/10.1038/s41467-026-75094-6 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/He%20%E7%AD%89%20-%202026%20-%20Ultra%20flash%20cold%20events%20under%20global%20warming.pdf)
@@ -72,7 +74,9 @@ author_profile: true
 
 ## 全部论文列表
 
-### 2026 (9)
+### 2026 (10)
+[74] Lan C, **He Y***, Wang Z, Huo Z, Ni B, Guan X. (2026). Dynamical and thermodynamic drivers of the divergent trends in Northern Hemisphere winter extreme cold events. **Climate Dynamics**, 64:493. https://doi.org/10.1007/s00382-026-08460-1
+
 [73] 王昊, 霍子昕, **何永利***. (2026). 观测约束下青藏高原的未来增温预估. **兰州大学学报(自然科学版)**, 62(5), 569–577. https://doi.org/10.13885/j.issn.0455-2059.2026.05.001 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E7%8E%8B%20et%20al_2026_%E8%A7%82%E6%B5%8B%E7%BA%A6%E6%9D%9F%E4%B8%8B%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%A2%9E%E6%B8%A9%E9%A2%84%E4%BC%B0.pdf)
 
 [72] Merghani MMA, **He Y***, Ibrahim MEA. (2026). Satellite-derived spread dynamics of three-dimensional fire events in Sudan. **Frontiers in Climate**. https://doi.org/10.3389/fclim.2026.1983725 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Merghani%20%E7%AD%89%20-%202026%20-%20Satellite-derived%20spread%20dynamics%20of%20three-dimensional%20fire%20events%20in%20Sudan.pdf)
