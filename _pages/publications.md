@@ -72,6 +72,10 @@ author_profile: true
 
 [1] **何永利**, 丁磊, 李冬冬, 黄建平, 李昶豫, 秘鲁. (2019). 全球变暖过程中海陆增温差异特征研究进展. **干旱气象**, 37(05), 703–712. [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E4%BD%95%20%E7%AD%89%20-%202019%20-%20%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96%E8%BF%87%E7%A8%8B%E4%B8%AD%E6%B5%B7%E9%99%86%E5%A2%9E%E6%B8%A9%E5%B7%AE%E5%BC%82%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
+## 投稿 / 审稿中
+
+[1] Jia J, **He Y***, Wei D, Ji F, Wang S, Guan X. Increasing spatiotemporal concentration of summer precipitation events in Northwestern China. Submitted to **Atmospheric Research**.
+
 ## 全部论文列表
 
 ### 2026 (10)
