@@ -73,6 +73,10 @@ author_profile: true
 
 [1] **He Y**, Ding L, Li D, Huang J, Li C, Mi L. (2019). Research progress on land-sea warming contrast under global warming. **Arid Meteorology**, 37(05), 703–712. [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E4%BD%95%20%E7%AD%89%20-%202019%20-%20%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96%E8%BF%87%E7%A8%8B%E4%B8%AD%E6%B5%B7%E9%99%86%E5%A2%9E%E6%B8%A9%E5%B7%AE%E5%BC%82%E7%89%B9%E5%BE%81%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
+## Submitted / Under review
+
+[1] Jia J, **He Y***, Wei D, Ji F, Wang S, Guan X. Increasing spatiotemporal concentration of summer precipitation events in Northwestern China. Submitted to **Atmospheric Research**.
+
 ## Complete Publication List
 
 ### 2026 (10)
