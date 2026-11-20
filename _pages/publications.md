@@ -76,6 +76,8 @@ author_profile: true
 
 [1] Jia J, **He Y***, Wei D, Ji F, Wang S, Guan X. Increasing spatiotemporal concentration of summer precipitation events in Northwestern China. Submitted to **Atmospheric Research**.
 
+[2] Tang Z, **He Y***, Ni B, Wang H, Huo Z, Wang S, Guan X. Disentangling the effects of mean precipitation and intensity-distribution changes to summer precipitation variability over Northwest China. Submitted to **Climate Dynamics**.
+
 ## 全部论文列表
 
 ### 2026 (10)
