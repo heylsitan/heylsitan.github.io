@@ -81,7 +81,9 @@ author_profile: true
 
 ## Complete Publication List
 
-### 2026 (10)
+### 2026 (11)
+[75] Du F, Yan H, **He Y**, **Li C***, He X. (2026). External moisture versus local recycling in the Tibetan Plateau summer precipitation dipole. **Journal of Hydrology**, 136854. https://doi.org/10.1016/j.jhydrol.2026.136854
+
 [74] Lan C, **He Y***, Wang Z, Huo Z, Ni B, Guan X. (2026). Dynamical and thermodynamic drivers of the divergent trends in Northern Hemisphere winter extreme cold events. **Climate Dynamics**, 64:493. https://doi.org/10.1007/s00382-026-08460-1
 
 [73] Wang H, Huo Z, **He Y***. (2026). Constraining future warming projections over the Qinghai-Xizang Plateau with observations. **Journal of Lanzhou University (Natural Sciences)**, 62(5), 569–577. https://doi.org/10.13885/j.issn.0455-2059.2026.05.001 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E7%8E%8B%20et%20al_2026_%E8%A7%82%E6%B5%8B%E7%BA%A6%E6%9D%9F%E4%B8%8B%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%A2%9E%E6%B8%A9%E9%A2%84%E4%BC%B0.pdf)
