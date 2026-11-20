@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.asset-cache/
+
+# bundler
+.bundle/
+vendor/bundle/
+
+# logs
+*.log
+
+# local CV LaTeX source (not part of the published site)
+cv_source/
