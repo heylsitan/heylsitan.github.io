@@ -12,6 +12,11 @@ author_profile: true
   <figcaption style="margin-top: 0.5em; color: #666; font-size: 0.95em;">2014–2026 年第一作者/通讯作者论文篇数（含当年已发表）</figcaption>
 </figure>
 
+<figure style="margin: 1.5em 0; text-align: center;">
+  <img src="/images/all-papers-by-year-zh.png" alt="每年发表论文数量柱状图（含合作者论文）" style="max-width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.5em; color: #666; font-size: 0.95em;">2014–2026 年全部论文篇数（含第一作者、通讯作者与合作者论文，共 75 篇）</figcaption>
+</figure>
+
 ### 英文论文
 
 [28] Lan C, **He Y***, Wang Z, Huo Z, Ni B, Guan X. (2026). Dynamical and thermodynamic drivers of the divergent trends in Northern Hemisphere winter extreme cold events. **Climate Dynamics**, 64:493. https://doi.org/10.1007/s00382-026-08460-1
@@ -193,7 +198,7 @@ author_profile: true
 
 [24] 黄建平, 刘玉芝, 王天河, 李积明, 阎虹如, **何永利**. (2021). 青藏高原及周边地区气溶胶、云和水汽收支研究进展. **高原气象**, 40(6), 1225–1240. [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/%E9%BB%84%20et%20al_2021_%E9%9D%92%E8%97%8F%E9%AB%98%E5%8E%9F%E5%8F%8A%E5%91%A8%E8%BE%B9%E5%9C%B0%E5%8C%BA%E6%B0%94%E6%BA%B6%E8%83%B6%E3%80%81%E4%BA%91%E5%92%8C%20%E6%B0%B4%E6%B1%BD%E6%94%B6%E6%94%AF%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)
 
-### 2020 (6)
+### 2020 (5)
 
 [23] Zhang X, Chen S*, Kang L, Yuan T, Luo Y, Alam K, et al. (2020). Direct Radiative Forcing Induced by Light‐Absorbing Aerosols in Different Climate Regions Over East Asia. **Journal of Geophysical Research: Atmospheres**, 125(14). https://doi.org/10.1029/2019JD032228[[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Zhang%20et%20al_2020_Direct%20Radiative%20Forcing%20Induced%20by%20Light%E2%80%90Absorbing%20Aerosols%20in%20Different.pdf)
 
