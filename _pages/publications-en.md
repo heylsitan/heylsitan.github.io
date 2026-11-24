@@ -82,7 +82,7 @@ author_profile: true
 ## Complete Publication List
 
 ### 2026 (11)
-[75] Du F, Yan H, **He Y**, **Li C***, He X. (2026). External moisture versus local recycling in the Tibetan Plateau summer precipitation dipole. **Journal of Hydrology**, 136854. https://doi.org/10.1016/j.jhydrol.2026.136854
+[75] Du F, Yan H, **He Y**, **Li C***, He X. (2026). External moisture versus local recycling in the Tibetan Plateau summer precipitation dipole. **Journal of Hydrology**, 682, 136854. https://doi.org/10.1016/j.jhydrol.2026.136854 [[PDF]](https://github.com/heylsitan/heylsitan.github.io/blob/master/files/Du%20%E7%AD%89%20-%202026%20-%20External%20moisture%20versus%20local%20recycling%20in%20the%20Tibetan%20Plateau%20summer%20precipitation%20dipole.pdf)
 
 [74] Lan C, **He Y***, Wang Z, Huo Z, Ni B, Guan X. (2026). Dynamical and thermodynamic drivers of the divergent trends in Northern Hemisphere winter extreme cold events. **Climate Dynamics**, 64:493. https://doi.org/10.1007/s00382-026-08460-1
 
